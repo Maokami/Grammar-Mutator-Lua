@@ -1,0 +1,1 @@
+e = ( ("\xBeFEff\u{4e4a}") ) : gmatch""; if ((true)) then if (nil) then b""; c = c;  else e(c); e{};  end; return debug, ((nil));  end; 

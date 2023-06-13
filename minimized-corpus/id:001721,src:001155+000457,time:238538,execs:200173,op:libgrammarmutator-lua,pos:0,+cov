@@ -1,0 +1,1 @@
+for math=(0xD), (0xCC), [[]] do ( e{...} )();  end; 

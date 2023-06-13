@@ -1,0 +1,1 @@
+local e = (io : type(io : flush[[]])^(io : type(io : flush[[]])^(io : type(io : flush[[]])^( (io : tmpfile()) ) : read((03806.99e2))))); 

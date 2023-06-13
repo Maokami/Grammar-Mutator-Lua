@@ -1,0 +1,1 @@
+package = string; return (string and ( (true) ) : stdout{}); 

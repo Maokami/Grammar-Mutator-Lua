@@ -1,0 +1,2 @@
+( [[.//
+]] ) : find(((0x9)), (io : tmpfile(io : flush[[]])^(io : tmpfile(io : flush[[]])^(io : tmpfile(io : flush[[]])^(io : tmpfile(io : flush[[]])^( (io) ) : read"")))), ((false))); 

@@ -1,0 +1,1 @@
+e = ( [[$aa]] ) : gmatch([[$/]]); table, c = (nil), e[[]]; 

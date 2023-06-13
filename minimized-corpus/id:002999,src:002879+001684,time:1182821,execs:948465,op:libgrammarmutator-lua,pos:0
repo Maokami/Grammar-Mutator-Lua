@@ -1,0 +1,1 @@
+debug : setmetatable(math); function debug.close (...) local package = (0x8bBacE); return (nil); end; 

@@ -1,1 +1,0 @@
-repeat local self = table : remove({}); local utf8 = function () self, c, d, os = (nil);  end;  until ((9274.08e-10)); 

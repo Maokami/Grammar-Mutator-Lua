@@ -1,1 +1,0 @@
-os : setlocale{(false),require=[[.		]]}; return (2245), (true), (1); 

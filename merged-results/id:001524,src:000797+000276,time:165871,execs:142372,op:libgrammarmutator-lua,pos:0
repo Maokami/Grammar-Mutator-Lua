@@ -1,1 +1,0 @@
-if (debug<=(nil)) then for os=function (string, ...) do d"";  end; return {[{}]=(false),move=""};  end, ( (#(false)) )(({{}}), function () if (false) then do a = e;  end; return (#io : rep{b,(true)}), (true), (4e0);  end; self, table, self = d : exit"", e, (( not (io)));  end), ... do do a = " ";  end; ( (...*(#(true))) )"";  end; c = a : write{}; return table, (...), ...;  end; 

@@ -1,1 +1,0 @@
-if ((table : insert((-(92.374e-258)), {})) or [[]]) then function debug:traceback () ( ((table : insert((-(0xA)), {}))) )[[]]; local c, c = a, a; e = (nil); end; return ( (02.3e059) )([[]]);  end; 

@@ -1,1 +1,0 @@
-do debug(); if {a} then utf8 = (nil);  end; return (0xfc6);  end; return ( not (true)); 

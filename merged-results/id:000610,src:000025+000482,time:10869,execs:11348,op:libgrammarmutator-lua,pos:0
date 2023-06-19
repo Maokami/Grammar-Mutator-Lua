@@ -1,1 +1,0 @@
-repeat io, package, d, c, package, self, b = (""), (#[[]]), (false); e : packsize((0), a, string); break;  until ((true)); 

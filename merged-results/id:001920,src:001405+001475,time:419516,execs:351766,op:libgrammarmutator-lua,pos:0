@@ -1,1 +1,0 @@
-table : insert(( "" ) : find(( [[]] )(( not self), (true), (( not (false))%( not ((( not ...)) and utf8)))), function (...) io = {}; return [[]];  end, (true))); 

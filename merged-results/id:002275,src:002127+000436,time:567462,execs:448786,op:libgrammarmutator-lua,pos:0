@@ -1,1 +1,0 @@
-local d, c, utf8 = "", (nil), (0xb); return math : abs(( "                                                                                                                                                                                                                                                                 " ) : upper(), ...); 

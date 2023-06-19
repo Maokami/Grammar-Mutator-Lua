@@ -1,1 +1,0 @@
-local d, a, debug, debug = (true); repeat if d then d(c);  else if ... then c = {(a{})}; d(e); return ...;  end; while (e) do b{};  end; c(c);  end; break;  until ((93)); return ( c[[.]] ) : read[[.]], ""; 

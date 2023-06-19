@@ -1,1 +1,0 @@
-repeat local c = ..., b; table = function () e = c;  end; io : write(); break;  until ({}); 

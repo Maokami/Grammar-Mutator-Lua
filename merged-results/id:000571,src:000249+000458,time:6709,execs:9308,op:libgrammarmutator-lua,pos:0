@@ -1,1 +1,0 @@
-repeat local math, package, a = ...; repeat d{{}}; d : G((e)); d""; b();  until ({}); io : randomseed((false), "", [[0	]]);  until (function (...) math, string, d, io, string, package, a, package, os = b;  end); 

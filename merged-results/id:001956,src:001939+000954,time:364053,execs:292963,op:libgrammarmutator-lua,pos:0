@@ -1,1 +1,0 @@
-local e, c, utf8 = "", debug, (0xf); return ( function (...) c = e; return [[]];  end )(); 

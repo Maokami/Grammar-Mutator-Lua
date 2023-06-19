@@ -1,1 +1,0 @@
-repeat local c = ..., b; table = function () e = c;  end; ( "" ) : lower((nil), ((0xE))); break;  until ({}); 

@@ -1,1 +1,0 @@
-if {} then math = ((true)), (true), (0xcc), function (d, ...) io : packsize{yield=io,""};  end, (nil), (nil);  else local os, io = (false), {string=( ... )""};  end; local b = self[[/.]], (true), (0xC); 

@@ -1,1 +1,0 @@
-local c, d = b, (nil); do ( (function (c) for e=(d), (-{deg=function (string, c, string, ...) table = (false);  end,d,[({{a,a},[self]=function (e, c) b();  end,G=os} .. ((0xbcd)<self : pack()))]=(0xa)}), {} do local b = ""; e : G(); local math, os, io = (0xb), (({})+(true)), {}; return function (...) b{}; return d;  end, e(), (true), math, (9);  end;  end) ){};  end; 

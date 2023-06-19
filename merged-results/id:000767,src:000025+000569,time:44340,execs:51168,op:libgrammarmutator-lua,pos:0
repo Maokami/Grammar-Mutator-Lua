@@ -1,1 +1,0 @@
-( ( ... ) : gsub(string) ){rawequal=(false)}; do if ((#...)==(false)) then local os, utf8, string, a = ..., "", (true); return d;  end; if ((4.3)) then local os, io = ..., {}, {}; if self then io, e = (-(os)), {}, [[]], {}; d = io; string = os;  end;  end; function next (c, utf8) local e = ((true)-table), (false), {}; end;  end; 

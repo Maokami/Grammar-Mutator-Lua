@@ -1,1 +1,0 @@
-b = ""; return ( function (debug, c, package, ...) local a = io : input();  end )(); 

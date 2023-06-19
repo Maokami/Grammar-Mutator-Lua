@@ -1,1 +1,0 @@
-( ( "$" ) : gsub("", function (table) ( function (self, b, d, io, ...) self = (d);  end )();  end) ) : upper(); 

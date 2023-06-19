@@ -1,1 +1,0 @@
-repeat local c = io, d; b = function () c = c;  end; ( (#[[]]) )(..., {...}, {...}, {...}, [[0]]); break;  until ({}); 

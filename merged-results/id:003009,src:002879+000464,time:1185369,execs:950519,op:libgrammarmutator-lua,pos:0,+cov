@@ -1,1 +1,0 @@
-debug : setmetatable(math); while (debug : resume({(nil),(0xE)})) do do d = d;  end; d(); d""; return ((#a)<math : popen{});  end; 

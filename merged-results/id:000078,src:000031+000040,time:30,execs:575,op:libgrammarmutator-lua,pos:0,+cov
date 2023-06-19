@@ -1,2 +1,0 @@
-local b = (true), (( function (table, a, c, b, ...) d : running((0xd), (2e87), (nil), [[\f
-a$]]); io, math = ( not function () package = a({}); if (#(false)) then e = os; d""; return (true);  end;  end), (({})), {}, {}, c, c; return {}, [[]], "", (0xe), (nil);  end )(table)), e(), (nil), (d); 

@@ -1,1 +1,0 @@
-local e, debug = "a"; local e, os = b; os, io, debug = ..., (nil); os((true)); local package = ...; 

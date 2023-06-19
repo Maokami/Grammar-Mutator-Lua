@@ -1,1 +1,0 @@
-( ( " $\u{cFb6}" ) : gsub(((0xc)), (0x21aEC), (nil)) ) : upper(); 

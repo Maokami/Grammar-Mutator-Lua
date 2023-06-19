@@ -1,1 +1,0 @@
-os, io, debug = ..., {char=...,(nil),{a,b,e}}; os((true)); local package = ...; 

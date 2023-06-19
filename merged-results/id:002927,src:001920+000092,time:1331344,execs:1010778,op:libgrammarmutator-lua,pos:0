@@ -1,6 +1,0 @@
-repeat local c = io, d; b = function () c = ( [[
-]] ) : match""; c = ( [[
-]] ) : match""; c = ( [[
-]] ) : match""; c = ( [[
-]] ) : match""; c = ( [[
-]] ) : match""; table, b = (nil), {[(true)]=(-(0e-4554986))};  end; b""; break;  until ({}); 

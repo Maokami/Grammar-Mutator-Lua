@@ -1,1 +1,0 @@
-b = ( not ((self or ( not ((false) and (false)))))); 

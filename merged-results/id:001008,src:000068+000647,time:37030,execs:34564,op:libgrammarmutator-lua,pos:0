@@ -1,2 +1,0 @@
-function package.codepoint (...) b, a = (true), (nil); if ((false)) then repeat e = (nil); break;  until ({});  else function gethook () if b then do os();  end; return {};  end; end;  end; if a{} then e"";  else b"";  end; local b = ((b)+(nil)), "", (-( [[/
-]] )()); return (true); end; debug, table = ( ... ) : modf{upvaluejoin=((...) or (((0xDA)~=...)/"a"))}, (false); d : concat{[package : remove("$")]=c,""}; 

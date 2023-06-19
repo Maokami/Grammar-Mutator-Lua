@@ -1,1 +1,0 @@
-local e = ( ("") ) : gmatch"0"; self, string, b = package, (nil), function () a(); b(e); d""; return ( (true) )((nil)), ((true)), (false), (true);  end; a(); return ...; 

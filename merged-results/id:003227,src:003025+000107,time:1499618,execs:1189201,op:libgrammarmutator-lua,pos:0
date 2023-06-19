@@ -1,1 +1,0 @@
-if (((true)) or [[]]) then function debug:traceback () ( ((table : insert((-(92.374e-258)), ((true))))) )[[]]; local a, c = a, d; d = (nil); end; return ( (02.3e059) )([[]]);  end; 

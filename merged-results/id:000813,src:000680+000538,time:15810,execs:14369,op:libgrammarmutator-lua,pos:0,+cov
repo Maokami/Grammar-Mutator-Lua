@@ -1,1 +1,0 @@
-if debug then c = b;  else local d, b = (""), {a}, (80); return a{};  end; return ( d : G"" ) : deg(); 

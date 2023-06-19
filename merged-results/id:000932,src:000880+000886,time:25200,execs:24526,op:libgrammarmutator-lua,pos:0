@@ -1,1 +1,0 @@
-math : abs{function () c{c}; b{G=e}; c(""); return b : G{{}}, ({});  end,function () if d then a = c;  else c();  end; d = a;  end}; 

@@ -1,1 +1,0 @@
-local self, a, string = (true); repeat local os, package, a = ((7)>(...));  until ((string<{})); return ( not (true)); 

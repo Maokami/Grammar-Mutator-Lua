@@ -1,1 +1,0 @@
-repeat do if (((false)<=(false))*( (package) ) : stdout{}) then function G (c) io""; end;  else debug, c = [[.]], (6893e974), (...); break;  end;  end; local self = (math : G"0" or {}); break;  until ((nil)); 

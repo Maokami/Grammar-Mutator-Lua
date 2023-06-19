@@ -1,1 +1,0 @@
-( io : tmpfile(debug : setmetatable{}) ) : write"a"; 

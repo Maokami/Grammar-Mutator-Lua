@@ -1,3 +1,0 @@
-os = (function (...) if {read=string(utf8)} then local io, b, io = ( (false) ) : sort();  end; if [[$]] then if (nil) then if (c) then d : G{};  end; return utf8(), io : package[[.]];  else repeat ( utf8 ) : unpack[[
- ]]; local d, table, math, table, math, c = ...; if ({len=([[]]^c)}) then e{""};  else e, e = ...; io = ( "" )"";  end; ( c ){c,a,c};  until (c()); break;  end;  end; return ([[$
-]]);  end~=table); 

@@ -1,2 +1,0 @@
-( ( (-{{}}) ) : sqrt(d(), (#(nil)), string, (true), {e}, "/") ) : pcall(); ( [[
-\r/\x0F.]] ) : __eq(((0xF)), (0xDd7EC), (nil)); 

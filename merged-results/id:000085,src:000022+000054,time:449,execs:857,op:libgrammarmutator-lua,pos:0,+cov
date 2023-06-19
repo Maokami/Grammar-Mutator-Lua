@@ -1,1 +1,0 @@
-for d=(( (nil) ) : create"\b" or ((#(true)))), a{}, function () c();  end do if d then b"";  end;  end; break; 

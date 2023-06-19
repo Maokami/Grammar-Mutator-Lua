@@ -1,1 +1,0 @@
-local math = ((1)), (4), (3); local e, os = b; for debug=( e )(), {}, (1e35) do function exit (...) io((nil)); end; io, table = ( ... ) : getupvalue{[( not [[]])]=(nil)}; break;  end; 

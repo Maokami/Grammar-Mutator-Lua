@@ -1,1 +1,0 @@
-local io, debug = "."; local d, os = a; function os () io : pack""; os""; end; 

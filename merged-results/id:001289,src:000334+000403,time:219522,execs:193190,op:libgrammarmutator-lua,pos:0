@@ -1,3 +1,0 @@
-local e, c, table = (nil), {}, function () package = (nil), (nil), (nil), (true), ...; io = (({[b]="",a})>" $	"), {}, ({(nil)}); package, self = {[b]=a{a},G=(false)}, ( not ( (0xA) )()), ...; os = ..., (0xf); while ([[$$]]) do local string, c = io, table; if [[.$
-\t]] then function type (d) b = [[
-]], (0xEdcdc), (false); function debug:gsub () for e=[[]], "", ([[]] or io) do do b"";  end;  end; if ... then a{}; os{d}; b(); return ( (9) ) : G{};  end; return (nil); end; repeat b{b,c}; break;  until (function (debug) local string = self([[ ]], ({}), (false)), a(d()), (("0"~=""));  end); b" "; end;  end; local io, b = (-((nil)));  end; break;  end; 

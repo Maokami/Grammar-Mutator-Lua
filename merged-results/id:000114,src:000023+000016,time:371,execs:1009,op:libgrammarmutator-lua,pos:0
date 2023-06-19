@@ -1,2 +1,0 @@
-local package, self, self = (""==[[
-]]), ( ( ( (-(nil)) ) : pi"" ) : exp() ) : getregistry{(#function (b) local debug = ""; b(); break;  end)}; return ( not (true)); 

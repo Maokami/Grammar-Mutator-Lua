@@ -1,2 +1,0 @@
-if (nil) then utf8("");  else do table, d, os, e, c = {( ((true) and ( ( ".$" ) : rep((9.424e4)) ) : gmatch[[0]]) )()};  end; string = "", b, b;  end; c = (a); return ( [[
-]] ) : rep((false), ( [[\u{75f}0	]] ) : lower()); 

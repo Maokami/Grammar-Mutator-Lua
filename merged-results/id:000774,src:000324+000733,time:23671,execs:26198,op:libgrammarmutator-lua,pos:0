@@ -1,1 +1,0 @@
-local e = (nil); if ((-os) .. e) then if (nil) then do d"";  end; b = {e,"",c};  else d();  end; ( {} ){[""]={}};  end; io, io = (#function (string, ...) do if (true) then c = b;  else d"";  end; local os = b; c"";  end; io(debug, c, table, {c,c}, a, c); return function () repeat b = b, d;  until ((true));  end;  end); 

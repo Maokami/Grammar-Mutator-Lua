@@ -1,1 +1,0 @@
-b, table, utf8 = (-( "0.0" ) : char((0xAF), function (table) repeat c(); c""; c""; return (false);  until ("	");  end, ...)); 

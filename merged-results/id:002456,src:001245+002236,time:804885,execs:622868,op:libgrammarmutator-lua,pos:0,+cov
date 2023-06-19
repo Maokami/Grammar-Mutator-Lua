@@ -1,1 +1,0 @@
-repeat debug : setmetatable{["\u{dD1b}"]=function () if {debug=(math{})} then local os, math, debug, self = function () os();  end, function () c = {}, e; d(e);  end, (nil);  end;  end,( not os)}; return (((16e-65))~=(9.3));  until ((string-"")); return ( (... and math : tointeger()) ) : move(); 

@@ -1,1 +1,0 @@
-package = os : type{...,io,sub=(83e-1),io}, (2.19e-98), c, {}, b, ({}-b); repeat package = (nil); return (nil);  until ((0xA)); local table, os, self = (0xE); ( (nil) )[[]]; math = (0xdbD), (false), d, (0x2); return package; 

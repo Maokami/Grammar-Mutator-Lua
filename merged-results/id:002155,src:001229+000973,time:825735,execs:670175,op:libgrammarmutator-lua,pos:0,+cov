@@ -1,1 +1,0 @@
-debug : setmetatable((nil), (nil)); local debug = c; 

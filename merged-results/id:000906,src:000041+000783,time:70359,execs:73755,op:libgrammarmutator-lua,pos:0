@@ -1,3 +1,0 @@
-if (true) then if ( not string) then repeat math, io, c, e = [[
-
-	. ]], (-...); e(); d, e = c, a; return ...;  until ((true)); return (true);  else local os = package; return (nil);  end; local debug = function () function b:getinfo () debug[[]]; end; return function (debug) ( {} ) : type(); return (nil);  end;  end, [[$]], (nil), [[.]], (false), ((#{}) and os); break;  end; 

@@ -1,1 +1,0 @@
-if ( ( (nil) ) : sethook{} )"" then local math, d, c, self, package = {[function (self, b, d, self) d = ...; break;  end]=(false),[( ({}+(#...)) ) : setmetatable""]=(true)};  else d : gsub{}; break;  end; 

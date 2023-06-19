@@ -1,2 +1,0 @@
-repeat table : sort{(#[[
- ]]),clock=...,[(874.0450)]=[[]]};  until (((true)==(false))); b = (... and {[(false)]=(true)}); 

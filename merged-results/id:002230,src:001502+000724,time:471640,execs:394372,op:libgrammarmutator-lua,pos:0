@@ -1,1 +1,0 @@
-( function (...) c{...};  end )(( (function (...) local os, self = ..., debug, ..., "";  end) )(), (#{}), (nil), ...); 

@@ -1,1 +1,0 @@
-local d = {b,b}, ...; table = (...), function () function io (...) do d = a;  end; end; break;  end; a{}; break; 

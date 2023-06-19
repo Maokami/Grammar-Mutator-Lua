@@ -1,1 +1,0 @@
-( function (debug, c, os, io, ...) local a = ...;  end )(); 

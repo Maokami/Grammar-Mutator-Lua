@@ -1,1 +1,0 @@
-table : insert{path=...,path=...,path=...,path=...,path=...,path=...,path=...,path=...,path=...,path=...,path=...,path=...,path=...,path=...,path=...,path=...,path=...,(20e-9),[function () if a then b = b;  end; b, d = (nil);  end]=...,(false),dump=(true)}; 

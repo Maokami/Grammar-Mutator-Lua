@@ -1,1 +1,0 @@
-debug = string; return ( not ( math : atan() ) : unpack""); 

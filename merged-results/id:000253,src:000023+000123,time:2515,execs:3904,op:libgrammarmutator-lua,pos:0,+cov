@@ -1,1 +1,0 @@
-local string = (b); local b = ...; b{}; os(); return ( not (true)); 

@@ -1,1 +1,0 @@
-if (nil) then utf8("");  else do table, e, os, d, c = "";  end; string = "", b, a;  end; b = (d); return self{[{function () do b, b = {};  end; b = b; a(b); a = {};  end,debug : getregistry"",[(...~=b{})]=(true)}]=(true)}; 

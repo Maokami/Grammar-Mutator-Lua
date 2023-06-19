@@ -1,1 +1,0 @@
-repeat local io, b, debug, math = ...; while (function () c, package = {[(true)]=(65.52108)}, (""), {[(true)]=(0xe),[(" "*string)]=(false),[{[b]=(io),"",a}]=({}<d)}; b = d;  end) do function self.path (self, a, ...) do a : min""; os = {""}; d(); b = e; e"/"; return {a}, ((true));  end; return utf8; end;  end; return c(...);  until ((true)); return (nil), self, {utf8=(false)}; 

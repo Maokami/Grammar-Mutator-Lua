@@ -1,1 +1,0 @@
-local d = (0xFfe); d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d, d = (false), function (...) d, b, b = (true), ..., ( not (nil));  end; 

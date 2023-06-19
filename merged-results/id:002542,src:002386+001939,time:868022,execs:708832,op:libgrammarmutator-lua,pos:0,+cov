@@ -1,1 +1,0 @@
-table : insert(function (string, ...) local e, debug = "a"; local e, os = b; function gsub () io : pack""; os""; end; return (nil);  end); 

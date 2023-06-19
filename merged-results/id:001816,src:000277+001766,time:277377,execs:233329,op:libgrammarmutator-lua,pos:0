@@ -1,1 +1,0 @@
-( (((0.1e679)>=(3.81)) and (43e-4)) ) : debug((0x6)); ( ( ... )(a) ) : getupvalue({__lt=(true),[a]=c}, "a"); io(); debug((true), {os : log(),{}}); debug : traceback(c, {}); break; 

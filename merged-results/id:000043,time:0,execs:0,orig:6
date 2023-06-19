@@ -1,1 +1,0 @@
-if (false) then repeat ( (false) ){}; return (true);  until ((false));  else ( function (d) local d = {b,b},...0

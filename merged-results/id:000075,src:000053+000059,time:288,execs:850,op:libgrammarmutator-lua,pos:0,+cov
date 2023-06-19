@@ -1,2 +1,0 @@
-repeat local io, os, table = ..., [[$
-\v]];  until ((true)); return [[ .\t]], (false), (nil), (false), (({}/...)/(true)), ({setupvalue=((false)^io : max[[]]),(-(0xb)),[{acos=(true),[[]],{},(-a),e,d}]=os,[[ \xBBDB0]]}); 

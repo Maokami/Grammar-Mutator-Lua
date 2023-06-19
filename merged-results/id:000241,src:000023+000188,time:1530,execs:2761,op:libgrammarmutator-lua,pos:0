@@ -1,2 +1,0 @@
-local e = math : gmatch[[]]; return function () os, c = math(), package; if {io,d,a} then repeat b(); return b, table, ((e)), (false);  until ((true));  else ( function (package) io = e; for e=(1), e, (false) do string = "
-";  end; return ( "" ) : __newindex{};  end ) : len{}; return ((false));  end; for table=d, {}, (true) do table = (#(510e-1)); break;  end; break;  end; 

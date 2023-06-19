@@ -1,1 +1,0 @@
-function os.lower (debug, io, ...) local e = (false), (true), (...); end; return string; 

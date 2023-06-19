@@ -1,2 +1,0 @@
-if (nil) then utf8("");  else do table, e, os, a, c = "";  end; string = "", b, e;  end; d = (a); return ( [[
-]] ) : rep((false), ( [[\u{A1f}	\v]] ) : lower()); 

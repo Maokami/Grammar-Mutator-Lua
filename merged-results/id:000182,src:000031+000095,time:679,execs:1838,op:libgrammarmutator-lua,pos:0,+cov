@@ -1,1 +1,0 @@
-if (package) then b{}; b(d); return (nil), (0xdc);  else local d = d; return {[(table-(a>=(false)))]={}};  end; return {}, (0xC), (true); 

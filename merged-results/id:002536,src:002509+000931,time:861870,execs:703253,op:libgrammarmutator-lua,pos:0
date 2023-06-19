@@ -1,1 +1,0 @@
-( ( "$" ) : gsub("", ( not (((false) and (false)))), ( not (((false) and (false)))), ( not (((false) and (false)))), ( not (((false) and (false)))), (8.93)) ) : upper(); 

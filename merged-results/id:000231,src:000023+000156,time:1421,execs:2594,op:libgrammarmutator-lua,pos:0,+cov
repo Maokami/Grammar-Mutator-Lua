@@ -1,1 +1,0 @@
-do local b = (#{}), [[00]];  end; return ((nil)), {}; 

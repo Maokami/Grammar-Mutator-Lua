@@ -1,1 +1,0 @@
-local d, debug = "a"; if ((false)~=(nil)) then math = ({( "0 " ) : len()}~=[[/\r]]);  end; function gsub () io : pack""; os""; end; 

@@ -1,1 +1,0 @@
-local self, table, e, d, string = ..., {}, (nil); return function (...) if function (debug) package, e, self, e = ((({}>=d)<"")^((((a)>=(io>=(7.72)))<(nil)))); return [[]], (#( e : debug{} ) : setupvalue((true))), (true), function (d, table) ( {} ) : floor();  end;  end then debug = (0xaA); return (#io);  end;  end, (false); 

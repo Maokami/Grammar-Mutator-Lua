@@ -1,1 +1,0 @@
-table : insert(( not ( not ( not ( not ( not ( not ( not (true))))))))); 

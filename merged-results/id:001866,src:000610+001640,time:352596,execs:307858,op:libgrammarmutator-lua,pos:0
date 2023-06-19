@@ -1,1 +1,0 @@
-repeat local e = ( not {}), ( not {}), ( not {}), ( not {}), ( not {}), ({}/(nil)), (((#(true)))); local d = (false); ( function (...) os, debug = {}, (0xba), ( (false) )(), ...;  end ){[(nil)]=(#function (os) a, b, e = (nil); function os () c""; end;  end)};  until ({}); math, io, e, package, self = (#d); 

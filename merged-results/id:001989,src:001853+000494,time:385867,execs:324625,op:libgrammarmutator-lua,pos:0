@@ -1,2 +1,0 @@
-os, c, self = {}; local table, package, package, string, e, math, debug, b, d, a, debug = ""; if b then if d then os{}; b();  else d"";  end; c = io;  else os, a = [[
-0]]; c{}; while (a) do c();  end; local c, os = ({a});  end; table = (0xdC), (true); local b, string = [[]], {}, (false); while ("a") do c, a = ( (0x2) )[[]]; ( ... )(( (-(3e297)) ) : abs()); while (d : __concat()) do c(d); c(); a{}; c = ""; break;  end;  end; break; 

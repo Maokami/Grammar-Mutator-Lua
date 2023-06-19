@@ -1,1 +1,0 @@
-local debug = (2), (nil); local a, math, table, d = (nil), (false); os, package = (nil); 

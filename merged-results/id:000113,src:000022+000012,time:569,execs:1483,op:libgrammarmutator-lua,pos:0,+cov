@@ -1,1 +1,0 @@
-local self, b, table, debug, io, table, os = table, ...; if (false) then do b = (( not (false))), [[a]];  end;  end; 

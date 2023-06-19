@@ -1,1 +1,0 @@
-utf8, math = (0xC), ( ( not {[{byte=((nil) .. {}),(true),(0xe)}]=function (c, e, d) io : fmod{e,os=(60e7)}; e();  end,((utf8>(nil))),[(-e)]="",utf8}) ) : getmetatable((nil)); 

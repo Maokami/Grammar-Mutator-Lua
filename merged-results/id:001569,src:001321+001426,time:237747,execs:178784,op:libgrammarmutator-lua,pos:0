@@ -1,1 +1,0 @@
-repeat local c = ..., b; table = function () function a.io () local a = (0xFC), (true); return ( {[{(true)}]=(os())} ){}, ((d : unpack[[0		$$a]])), (true), {(false),__div=(( not (nil))),match={},(true),[{}]=("">[[\v/]]),(false),[(nil)]={}}, (d>=(true)); end;  end; table = function () e = c;  end; table = function () b = c;  end; a""; break;  until ({}); 

@@ -1,1 +1,0 @@
-repeat local c = io, d; math, c, b = (5), c; b""; break;  until ({}); 

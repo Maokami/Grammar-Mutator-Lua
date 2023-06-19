@@ -1,2 +1,0 @@
-debug : setmetatable(package); debug : setmetatable(package); e[[
-]]; 

@@ -1,1 +1,0 @@
-local io = (false); function e:huge (...) a : setuservalue(); io = (#(0x0c)); if "" then debug, e, package, string = (nil), ..., {[(7e7)]=(nil),traceback=(false),max=((0xB8)%(0xd)),[(0x1)]={[...]=(false)},[c(({}))]=(0xEFd)}; while ((true)) do local d = table; return (false);  end; break;  else function b:getmetatable (utf8) math{log=(true)}; end; e = (0xf); break;  end; end; 

@@ -1,1 +1,0 @@
-do if c then d = {};  end; if a then d"";  end; b(); c(e);  end; 

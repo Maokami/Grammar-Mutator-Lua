@@ -1,1 +1,0 @@
-e = ( not ((self or ( not ((((self or ( not ({} .. (true)))) or ( not ({} .. (true)))) or ( not ({} .. (true)))) or ( not ({} .. (true)))))))); 

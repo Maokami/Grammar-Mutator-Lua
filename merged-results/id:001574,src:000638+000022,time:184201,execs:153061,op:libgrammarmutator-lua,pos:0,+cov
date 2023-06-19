@@ -1,1 +1,0 @@
-for math=(#{}), [[]], (nil) do c""; b[[]]; a = d, e; break;  end; 

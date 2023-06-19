@@ -1,2 +1,0 @@
-( function (self, table, ...) local e, debug = "a"; local e, os = (#(-function (a, ...) repeat string{(... or ( not (true))),[(0xb)]=[[\r
-]],(0xce)}; debug = ..., ( (45.677e6) ) : sethook{[(nil)]=...}; if (true) then self : pack();  else local package = (nil); do e(os); io : G({});  end; d""; c(); e : gsub(); return (nil), "", ((nil)), (4e8);  end;  until ((-((#(true)))));  end)); function gsub () io : pack""; os""; end;  end )(); 

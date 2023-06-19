@@ -1,1 +1,0 @@
-local self, e, debug, self = ...; for b=((nil)), (true), (true) do local self = ..., ((false)), ...;  end; 

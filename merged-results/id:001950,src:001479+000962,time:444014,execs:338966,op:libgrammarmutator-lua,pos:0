@@ -1,1 +1,0 @@
-repeat local c = io, d; b = function (package, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, ...) d = c;  end; b""; break;  until ({}); 

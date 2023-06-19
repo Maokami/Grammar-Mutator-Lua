@@ -1,2 +1,0 @@
-( (false) )({c,d}, debug : table(), (#(function (utf8, debug) local c, e = [[a0	0]];  end)), os, {}); ( [[
-\r/\x0F.]] ) : __eq(((0xF)), (0xDd7EC), (nil)); 

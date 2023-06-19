@@ -1,2 +1,0 @@
-repeat ( ... ) : exp"0"; repeat local c = {}, b, c, d; ( function (...) local e = (9); c(); d();  end )""; return function (string, ...) e, math = ([[]]); return {ult=package};  end;  until (function (...) e, b, package = [[\v
-0.]];  end);  until (( not (nil))); a = (true); ( ( not d) ){[(5e-37)]=(#(false)),[{}]=""}; return string; 

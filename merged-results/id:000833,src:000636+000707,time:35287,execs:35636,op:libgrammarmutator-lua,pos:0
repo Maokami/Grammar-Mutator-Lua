@@ -1,1 +1,0 @@
-for d=(true), (true), ... do repeat e : os[[]]; break;  until ((false)); break;  end; repeat repeat io{}; repeat b();  until (d); c{}; break;  until ("");  until (((({})<(false))==string)); break; 

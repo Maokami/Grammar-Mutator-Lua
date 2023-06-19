@@ -1,1 +1,0 @@
-( io : tmpfile"" ) : write(( " " ) : byte(), ( function (...) c = e; return [[]];  end )()); 

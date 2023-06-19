@@ -1,1 +1,0 @@
-if (((true)) or [[]]) then function debug:traceback () ( (nil) ) : yield(); local c, c = b, d; d = (nil); end; return ( (92.3e059) )([[]]);  end; 

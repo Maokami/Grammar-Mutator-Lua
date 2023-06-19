@@ -1,1 +1,0 @@
-local e, c, utf8 = "", (nil), (0xC); return ( function (...) function G () e{}; end; function G () e{}; end; function G () e{}; end; ( function (...) while ((#...)) do string, string = (false); break;  end; return ( function (...) c = e; return ( function (...) c = e; return ( "" ) : byte(((0xB)/[[0  ]]));  end )();  end )();  end ){}; return [[]];  end )(); 

@@ -1,1 +1,0 @@
-local a, d = (0xE), [[]], ({...}), (nil), (false), ((false)==(true)); 

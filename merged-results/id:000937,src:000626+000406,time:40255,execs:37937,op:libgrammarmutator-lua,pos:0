@@ -1,1 +1,0 @@
-if (nil) then utf8("");  else do table, e, os, d, c = ((nil)==[[]]), function () do os[[]];  end; os : len{}; e{}; e{}; return (true), [[]];  end, (9.3e2);  end; string = "", b, a;  end; a = (d); return self{[{function () do b, b = {};  end; e = e; e(b); b = {};  end,( e ) : G(),[(...~=d{})]=(true)}]=(true)}; 

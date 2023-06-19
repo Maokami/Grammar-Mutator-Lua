@@ -1,1 +1,0 @@
-c = ( not ( not ( not ((e and (false)) and (...~=(true)))))); 

@@ -1,1 +1,0 @@
-local d, utf8 = {[(-(0xD))]=[[]],(nil),[...]=os : setlocale((false))}; 

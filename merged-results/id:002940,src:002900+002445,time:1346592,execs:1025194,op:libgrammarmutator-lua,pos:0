@@ -1,1 +1,0 @@
-local c = (io : tmpfile(io : flush[[]])^( io : tmpfile() ) : write((0x5A02), (0x5A02), (0x5A02), (0x5A02), (0x5A02), (0x5A02), (0x5A02), (0x5A02), (0x5A02), string, ((nil)))); 

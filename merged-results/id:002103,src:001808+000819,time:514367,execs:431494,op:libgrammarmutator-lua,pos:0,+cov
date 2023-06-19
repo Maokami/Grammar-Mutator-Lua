@@ -1,1 +1,0 @@
-local os, package = (true), (false), ...; ( function (utf8) os""; local debug = debug, debug; return self : random"", {}, {};  end )({[function () d"";  end]=((true)~=(package))}, ( not {})); 

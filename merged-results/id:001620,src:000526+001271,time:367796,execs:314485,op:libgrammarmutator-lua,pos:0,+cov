@@ -1,1 +1,0 @@
-local os = ( package : tointeger(io : close((true), (true), (nil)), (false), (-...), ..., (-(-b{}))) ) : unpack(); 

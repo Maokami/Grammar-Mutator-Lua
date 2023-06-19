@@ -1,1 +1,0 @@
-do if ( not (( [[]] )"")) then do os();  end; return {};  else if ( not ...) then b(); a : G"0";  else d(); break;  end;  end; return ( not ((true) or function (package, os) local e, debug, d, e, table = {};  end)), (-debug), ((true) or function (...) c""; c(); break;  end), [[]];  end; 

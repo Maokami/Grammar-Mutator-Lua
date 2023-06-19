@@ -1,1 +1,0 @@
-local e = (io : type(io : type[[]])^( (io : tmpfile()) ) : read((43806.96e2))); 

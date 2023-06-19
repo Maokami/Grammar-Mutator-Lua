@@ -1,1 +1,0 @@
-local c = (io : tmpfile(io : flush[[]])^( (io : tmpfile()) ) : write(((0xf)), ((63.195e4168)), (844.16e-6017))); 

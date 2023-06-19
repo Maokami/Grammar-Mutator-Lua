@@ -1,1 +1,0 @@
-local debug, self, d, e, os = ((false) and a), (true), ((nil)), ((false) and (true)); return ((true) or table); 

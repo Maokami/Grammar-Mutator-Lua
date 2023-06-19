@@ -1,1 +1,0 @@
-debug : gethook(..., ( function (package, package, package, package, package, package, package, package, package, ...) local b = (true), debug; return [[$./]];  end )[[]]); 

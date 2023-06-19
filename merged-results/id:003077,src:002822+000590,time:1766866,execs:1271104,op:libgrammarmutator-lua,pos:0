@@ -1,2 +1,0 @@
-local e = (io : tmpfile(io : flush[[]])^( (io : tmpfile()) ) : read((nil), (a or (a or (a or (( function () ( [[.//
-]] ) : rep(((0xFefB)), (nil), {[(true)]=(10e5)}); return ( "" ) : upper(( "" ) : sub((0x5)));  end )() or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or (a or [[$]]))))))))))))))))))))))))), b)); 

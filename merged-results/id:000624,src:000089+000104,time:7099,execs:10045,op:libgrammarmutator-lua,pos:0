@@ -1,1 +1,0 @@
-if (0xec) then if (true) then c = {};  end; for string=({}-{}), ..., d : G{} do c = ({});  end;  else for os=(false), (( not (false))>string), "a$/" do d{}; for d=..., "a", ... do os : popen{}; break;  end;  end;  end; break; 

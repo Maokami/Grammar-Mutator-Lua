@@ -1,3 +1,0 @@
-for table=(function (...) local e, d = (nil), e : os{}, (0xE), "", c; return (#""), d : pi();  end), os({}), ( not utf8 : remove[[
-0
-/]]) do local d, b = "$", debug; while (c) do if string then c = d;  end;  end; b = a;  end; function a:G () local d = c; return a : concat[[]], e; end; function a:collectgarbage (package) local string = [[0]]; end; 

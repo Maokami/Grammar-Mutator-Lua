@@ -1,1 +1,0 @@
-( "." ) : find[[]]; utf8((false)); return debug : setupvalue(); 

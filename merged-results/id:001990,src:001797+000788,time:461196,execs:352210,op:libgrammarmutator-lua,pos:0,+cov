@@ -1,1 +1,0 @@
-for a=(0xa), [[0]], [[a]] do table : xpcall(); return (#{(8e-2)}), e, (...), (998);  end; 

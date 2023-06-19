@@ -1,4 +1,0 @@
-for utf8=(((0x5)<(false)) .. ...), ..., ({a""}) do for string={[{}]=(( ((5)%(0xa)) ) : getregistry[[$
-
-/$]])}, (false), ((false)/(string .. ...)) do ( ... ) : exp(string(( not ...)), d(), (#[[]]), "", {exp="
-"}); local os = d, [[$]], ((0)*e), c; return (nil), package();  end;  end; local math = (0xC), ((nil)~=[[]]); 

@@ -1,1 +1,0 @@
-package = string; return ( "" ) : setlocal(self{[[]],[b""]=(nil),[c]={}}, (nil), (-table), {[(0x9)]=(true)}); 

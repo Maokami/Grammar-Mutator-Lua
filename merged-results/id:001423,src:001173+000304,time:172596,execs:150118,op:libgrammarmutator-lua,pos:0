@@ -1,1 +1,0 @@
-function string:type (...) c = (package), ..., d; do while (((true))) do c, self = (0xAe); break;  end;  end; return (true); end; function os:close () local d, a = (false), {}; end; 

@@ -1,1 +1,0 @@
-if debug : setmetatable{(false)} then repeat local a, c, io, io = ..., (false); break;  until ({});  end; return debug : getmetatable((0x3)); 

@@ -1,1 +1,0 @@
-for table=( not ((utf8 or (true)) or (... or (os)))), [[]], {[(true)]=...,[[[]]]=""} do c{}; return a;  end; break; 

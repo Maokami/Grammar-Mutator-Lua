@@ -1,1 +1,0 @@
-string : type{[{seek=debug,b,deg=io}]=(true),[function (c) if ((-b)+math) then d = c;  else d = {{}}; e();  end;  end]=(nil),[math]=(false)}; 

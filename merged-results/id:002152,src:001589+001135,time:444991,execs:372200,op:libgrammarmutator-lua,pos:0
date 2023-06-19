@@ -1,1 +1,0 @@
-( "a/" ) : gmatch[[/]]; ( {( "	 " ) : len()} ) : close(( not e[[]]), {[(((nil))+...)]=(true),[(0xA)]=(nil),open=b,"\t",[{( a )()}]={},[d]=(nil),"",b,cpath=function () d = (2); do d""; a"";  end; os""; return (0xa), (-(1)), (nil);  end}, (-(0xad)), " $	0a/", ((8.6e6)), c, {}); 

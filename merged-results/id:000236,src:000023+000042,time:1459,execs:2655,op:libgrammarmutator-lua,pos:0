@@ -1,1 +1,0 @@
-package = (#(( not {[{setmetatable=[[]],[(true)]=(true)}]=((true)/(0xbfe))}))); return ( not (true)); 

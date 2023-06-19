@@ -1,1 +1,0 @@
-if {match=(nil)} then local utf8, e, string = [[a]]; utf8(( function () d = b; utf8 : len{c}; os = a;  end )({}, (false)), ( function () d = b; utf8 : len{c}; os = a;  end )({}, (false)), ( function () d = b; utf8 : len{c}; os = a;  end )({}, (false)), (-[[.]]));  end; 

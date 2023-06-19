@@ -1,1 +1,0 @@
-for package=..., ({} .. ...), ((0xECBCf)) do for a=(8.1e1), (0xFbAEe), (-(0xA)) do for d=(-( not b{})), (a%...), io do local io = {}, (-...); return package : gmatch((true));  end; do a = "";  end; d(a); break;  end; a : stdout{__mod=(true)};  end; return (6e146); 

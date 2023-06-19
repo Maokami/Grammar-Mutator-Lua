@@ -1,1 +1,0 @@
-for os=(0xc), (0xDF), (0xf) do debug = ...; table, string, table = (nil), a, ((string)), ".", (0xFDCddb), (false);  end; 

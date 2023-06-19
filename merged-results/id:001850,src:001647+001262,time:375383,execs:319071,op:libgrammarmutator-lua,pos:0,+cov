@@ -1,1 +1,0 @@
-debug : setmetatable(( "	 \a/0" ) : find((0xCAEC), (nil), (false), (0xE))); 

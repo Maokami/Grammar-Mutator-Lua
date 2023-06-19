@@ -1,1 +1,0 @@
-( ( "$" ) : gsub("", function (table, ...) ( ( "$00000000000000000000000000000000000000000000000000000000000000000000000" ) : gsub("", function (table, ...) function package:type () do local a = (false);  end; end;  end) ) : upper();  end) ) : upper(); 

@@ -1,1 +1,0 @@
-for os=(7e-147), (0xDF), "0" do e : G(utf8, (true)); if d then b"";  end; do if [[ ]] then debug = function () os();  end; break;  else string, utf8 = (true); break;  end; break;  end; break;  end; 

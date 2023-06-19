@@ -1,1 +1,0 @@
-local b = table : setmetatable((nil), function (self, ...) local math = (math), (false), (...); package = (true);  end, (nil)); 

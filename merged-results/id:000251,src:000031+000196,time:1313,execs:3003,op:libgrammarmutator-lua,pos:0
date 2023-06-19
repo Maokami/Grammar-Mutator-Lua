@@ -1,2 +1,0 @@
-local b = {upvalueid=[[
-a]],[(false)]=((utf8)),[{}]=(true)}; 

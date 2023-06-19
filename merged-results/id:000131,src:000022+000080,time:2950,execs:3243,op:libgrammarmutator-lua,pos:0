@@ -1,1 +1,0 @@
-os : setlocal(b : yield"a", a); io = (nil), {}; do a"/"; math : pcall((nil));  end; 

@@ -1,1 +1,0 @@
-local debug, self, c, e, utf8, string, math, e = {}; 

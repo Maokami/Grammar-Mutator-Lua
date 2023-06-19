@@ -1,1 +1,0 @@
-if (((true))) then os{sub=""}; e{[...]=a};  else for os=(#(4)), c, ( not [[]]) do if {} then if (nil) then b(b, os);  end; return ...;  else local c = ...; if ("">=c()) then b : G{e}; a"."; return d();  end;  end; return (false), (((-(c and (true))) and (false)) and (true));  end;  end; 

@@ -1,1 +1,0 @@
-( io : tmpfile"" ) : __tostring(io : tmpfile((0xb), (true))); 

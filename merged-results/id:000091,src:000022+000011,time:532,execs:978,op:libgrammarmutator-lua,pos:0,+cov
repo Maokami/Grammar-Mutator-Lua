@@ -1,1 +1,0 @@
-for table=( not self), [[]], {[(true)]=...,[[[]]]=""} do c""; return a;  end; break; 

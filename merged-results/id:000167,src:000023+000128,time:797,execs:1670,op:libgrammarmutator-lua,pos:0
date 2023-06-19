@@ -1,1 +1,0 @@
-local c, io, package = {((false)),next=(string((-...)))}; return ( not (true)); 

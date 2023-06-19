@@ -1,1 +1,0 @@
-e : searchpath{(false)}; b, e, io, a = ...; local c, math, a, e = {packsize=(( (#"") ) : sub((true))<((...))),getregistry=( (false) )((([[]] or (-(82))) or a))}; return table; 

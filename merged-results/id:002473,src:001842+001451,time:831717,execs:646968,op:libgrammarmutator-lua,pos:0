@@ -1,1 +1,0 @@
-debug : setmetatable({[(6371)]=(false)}); if {pack={}} then package(); return ((package{b,math,len=self : charpattern(),sqrt=( not (false))})>(true));  else b : __eq();  end; 

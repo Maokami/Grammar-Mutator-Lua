@@ -1,1 +1,0 @@
-math : atan(table : insert((nil), table : insert({}))); 

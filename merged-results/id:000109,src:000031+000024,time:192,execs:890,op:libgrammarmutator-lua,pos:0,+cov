@@ -1,1 +1,0 @@
-local b = {}; table, string = (#b), ..., {{}}, a(), (nil); a(); b = (nil); break; 

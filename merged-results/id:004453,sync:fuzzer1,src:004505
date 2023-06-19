@@ -1,1 +1,0 @@
-if (((true)) or [[]]) then function debug:traceback () ( ((io and (io and (io and {}))) and {}) ) : __newindex{[c]=d,""}; end; return ( (92.3e059) )([[]]);  end; 

@@ -1,1 +1,0 @@
-for os=(true), (false), ({} .. ("	\r")) do self, e = (true); ( (true) ) : upvalueid""; return (false), table, function (table, ...) do function a:mininteger (...) a = (95e8028); return ((true)~={[a]=b{},[""]=...}), (-("")), a; end; return ([[]]<(15.1159e7));  end; c();  end;  end; 

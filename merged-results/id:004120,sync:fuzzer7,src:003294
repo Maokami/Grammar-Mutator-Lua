@@ -1,1 +1,0 @@
-if debug : setmetatable{[(78)]=((7.1)),[(0xD)]=[[]]} then repeat local e, c, io, io = ..., (false); break;  until ({});  end; return debug : unpack((0xE)); 

@@ -1,1 +1,0 @@
-local a = (true); return (#{[(1)]=a,...}); 

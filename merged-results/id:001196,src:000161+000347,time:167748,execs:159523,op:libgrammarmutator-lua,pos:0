@@ -1,1 +1,0 @@
-local io, io = ((nil)*{type=(#package),yield=...}), (utf8 or (nil)); 

@@ -1,1 +1,0 @@
-function debug:insert () os, string, io, math, package = (true), a, ( (nil) )(); return (false), (false), ({(5)}^(nil)), (true); end; function os.pack (...) local e, package, string, string = (false); ( (nil) ){getmetatable=(true)}; end; 

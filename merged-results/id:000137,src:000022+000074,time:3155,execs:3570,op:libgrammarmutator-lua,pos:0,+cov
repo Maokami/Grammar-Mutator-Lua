@@ -1,1 +1,0 @@
-for d=function (string, package, utf8, debug, self, e, string, ...) if (98) then function pcall () b = "", a; do c(); break;  end; local a = d; end; return (178);  end; return ...;  end, a{}, function () c();  end do if d then b"";  end;  end; break; 

@@ -1,1 +1,0 @@
-function debug.getlocal () for b=d, {}, e(io) do a();  end; return (0xBb); end; for self=(0xA), (nil), "" do io = (nil);  end; if (true) then b = (.../(nil));  else local self = (nil);  end; ( (0xEf) )(); do local self, io = (true), (...);  end; 

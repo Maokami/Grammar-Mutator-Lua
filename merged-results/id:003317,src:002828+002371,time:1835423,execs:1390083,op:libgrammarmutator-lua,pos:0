@@ -1,2 +1,0 @@
-debug : setmetatable({[(0378)]=(false)}); function debug.unpack (table, ...) for self=(e>=(d^((#a)))), {"",a}, utf8 do local package, a, os = self[[
-]]; local e, d = e, e; e();  end; return "$", string : tmpfile{}; end; 

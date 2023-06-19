@@ -1,2 +1,0 @@
-e = ( [[
-]] ) : gmatch""; local io = function () a = d; a(b, e); e = (1); return math;  end, (0xd); io, utf8, string, table = package; repeat function status () if {} then b = {}; for b=((2)), (1), (nil) do e = e;  end;  else local d = {};  end; function next () d, table = a; end; e = self; self = {e,""}; os(); end; ( os )((false), d : G(e), (true), {}, {}); return function () d, math = function () e{c,c};  end;  end;  until ((0xd)); 

@@ -1,1 +1,0 @@
-( (math : floor() or (function () if (nil) then c = (true); return " ", (false);  end;  end==( a ) : charpattern{(nil),...})) ) : setmetatable((nil)); 

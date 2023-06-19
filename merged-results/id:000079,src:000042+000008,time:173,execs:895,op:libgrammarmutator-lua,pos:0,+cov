@@ -1,1 +1,0 @@
-function io:charpattern (os, utf8, ...) os, os = {}, {[( (#(e)) ) : gethook((false))]=(nil),[((-utf8 : upvaluejoin()))]=package}; end; 

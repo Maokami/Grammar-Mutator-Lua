@@ -1,1 +1,0 @@
-a, c = {io,d}, "a/"; do e(); local os, d = (-""), "", a; c(); a = "", (0xaE); io{G=d}; os"";  end; ( (#e : G{}) ) : G(...); 

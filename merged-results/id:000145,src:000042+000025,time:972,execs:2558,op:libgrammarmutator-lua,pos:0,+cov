@@ -1,1 +1,0 @@
-function io:randomseed (os, utf8, ...) for e=(nil), (...), (true) do if {} then io""; break;  else d(); break;  end;  end; break; end; 

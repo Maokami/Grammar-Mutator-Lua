@@ -1,1 +1,0 @@
-local c, e, self = ((#{c,b,a,c,traceback=(false)})/(#[[]])), ( {[a]=b,b : G""} ) : __add((nil), (true), ( not "")); return b; 

@@ -1,1 +1,0 @@
-local math = {( {...} ) : fmod((false)),...}; return ( function () math, math, c, b = (true), {};  end )"", ...; 

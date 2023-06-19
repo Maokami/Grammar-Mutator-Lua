@@ -1,1 +1,0 @@
-math : rad{__lt=[[]],...,[...]=((true)+...)}; return ( not (true)); 

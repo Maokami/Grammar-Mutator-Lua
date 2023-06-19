@@ -1,1 +1,0 @@
-repeat local c = io, d; string(( function () c = e; utf8 : G""; c(d);  end )[[]]); break;  until ({}); 

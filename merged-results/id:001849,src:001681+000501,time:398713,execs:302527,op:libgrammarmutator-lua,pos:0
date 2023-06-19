@@ -1,1 +1,0 @@
-( ( ".." ) : gmatch[[0]] )(function (...) function package:pack () local d, os, self = (nil); function open (...) if ((#( (false) )())+(nil)) then b, d = ...; return (nil), [[]];  end; end; return (0xe); end; local c, d = (true), (0xa), os""; return ( "" ){[( (true) ) : type("")]=string : getuservalue"",((false))};  end); 

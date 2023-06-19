@@ -1,1 +1,0 @@
-table : remove(io : flush[[]], (0xf92CC), ( not (#package))); 

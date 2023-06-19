@@ -1,1 +1,0 @@
-( "a/" ) : gmatch[[/]]; ( {( "	 " ) : len()} ) : close(( function (c) debug : traceback();  end )(( (function (...) local os, self = ..., debug, ..., ...;  end) )(), (#{}), (nil), ...), (#{}), (nil), ...); 

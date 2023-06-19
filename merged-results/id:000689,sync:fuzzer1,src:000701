@@ -1,1 +1,0 @@
-if os : match(d((function () local debug, self = (0xe);  end or self))) then function e:rawequal () local d, table, math, table = os(), function () ( math{e,__le=function () function c.G (c) os{}; end; return (false);  end} )[[]];  end, (false); end;  end; return ( not (true)); 

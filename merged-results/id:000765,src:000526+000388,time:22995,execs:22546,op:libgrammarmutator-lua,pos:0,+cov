@@ -1,1 +1,0 @@
-a = (string : gmatch()+{( (false) ) : unpack[[]],[d]=d"",sin=(...~=string)}), ({}), table; 

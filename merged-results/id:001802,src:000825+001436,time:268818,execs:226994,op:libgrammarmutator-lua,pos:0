@@ -1,1 +1,0 @@
-local io, io = function (...) d(( not ((true) or (0xc))));  end, (false); 

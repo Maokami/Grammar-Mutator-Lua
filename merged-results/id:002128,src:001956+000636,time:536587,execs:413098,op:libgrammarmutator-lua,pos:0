@@ -1,1 +1,0 @@
-repeat local c = io, d; local d = {[(#{c})]="",[(#{c})]="",[(#{c})]="",(nil)}; b""; break;  until ({}); 

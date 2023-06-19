@@ -1,1 +1,0 @@
-for table=(true), (nil), (nil) do local e, a, math = ([[/]] .. (nil)); ( a ) : yield(); do string{}; if ((true)) then c = ...;  else a(os); d{};  end; local b = "", e; break;  end;  end; local package = function (utf8) function table () e""; c""; end; do function string:codes () string = b, (0xf); end; return ((nil));  end;  end; 

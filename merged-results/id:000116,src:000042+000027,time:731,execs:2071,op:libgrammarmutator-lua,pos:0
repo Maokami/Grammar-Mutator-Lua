@@ -1,1 +1,0 @@
-local b = (...); return (true), ".", (true), (#(3.16e7)); 

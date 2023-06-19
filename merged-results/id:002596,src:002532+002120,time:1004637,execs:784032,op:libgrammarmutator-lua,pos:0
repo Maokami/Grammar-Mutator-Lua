@@ -1,1 +1,0 @@
-repeat local c = math, b; a = function () e = c;  end; a""; return ( function () table = (false); return (c==(c==(c==(c==c))));  end )();  until ({}); 

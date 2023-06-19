@@ -1,1 +1,0 @@
-( {dump=(nil),e,a,c,""} ) : getupvalue{}; repeat ( (true) ) : unpack((7e-12), [[]]); return (nil);  until ((true)); local a, debug, package = ..., ( not ((1.5)~=function (table, string) ( (41e-3) ) : tmpfile"0	";  end)); 

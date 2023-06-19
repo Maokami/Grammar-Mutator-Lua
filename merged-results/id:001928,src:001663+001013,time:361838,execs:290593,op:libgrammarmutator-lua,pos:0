@@ -1,1 +1,0 @@
-local e = (true); return ( function (self, package, e, string) c = e; return [[]];  end )(); 

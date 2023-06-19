@@ -1,1 +1,0 @@
-do table, e, string, self, os, table, e, b, debug = ...;  end; 

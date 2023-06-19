@@ -1,1 +1,0 @@
-debug : setmetatable({[(0378)]=(false)}); do if package then ( (nil) )((-"")); function io () while ((true)) do d{b}; return ( ((nil)*(nil)) ) : close[[]];  end; end;  end;  end; 

@@ -1,1 +1,0 @@
-if b then a"";  else debug : setmetatable{};  end; debug : __index{os,[[]],[...]=debug : load{},[(... or ( not ( not ( not ( not ( not (false)))))))]=function (...) ( os{} )(( (e) ) : getregistry{[function () io = c, (b<=(-b)), "", {};  end]=os : fmod([[/0.]])});  end}; 

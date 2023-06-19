@@ -1,2 +1,0 @@
-do if utf8 then math = ( (0) ) : floor""; if ... then e{}; io = [[ 
-]]; a = (d); return (nil);  end;  else if e then repeat a{}; return {}, b;  until (a(b{}));  end;  end;  end; if (nil) then b = [[]];  end; 

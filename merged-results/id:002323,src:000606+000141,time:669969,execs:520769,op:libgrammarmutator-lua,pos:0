@@ -1,1 +1,0 @@
-local d = {[(0xcD)]=( not ( not ( not ( not ( not ( not ( not ( not ( not ({} or (false))))))))))),string : __sub{( not (true))},[(function () a, b = c""; b, e = (-{});  end or "")]={}}, (nil), (nil), (( not (false))+(false)); 

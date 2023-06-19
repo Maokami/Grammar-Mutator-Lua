@@ -1,1 +1,0 @@
-function io:randomseed (os, utf8, ...) local c = function () function debug.getinfo (...) local io, os, package, b, b = ( (c~=(#os)) ) : format(); end;  end; end; 

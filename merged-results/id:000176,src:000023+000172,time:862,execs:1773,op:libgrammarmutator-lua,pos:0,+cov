@@ -1,1 +1,0 @@
-if {} then debug, a, self = string, ( not (0xEF)), ..., utf8{[self]=[[]]}, "", "a", function (a, debug, a, utf8) e = function () local b = {[[[	a]]]=( not (false))}; break;  end; do ( self )();  end;  end, (true); break;  end; return ( not (true)); 

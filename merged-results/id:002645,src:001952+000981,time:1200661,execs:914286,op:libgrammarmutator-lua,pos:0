@@ -1,1 +1,0 @@
-repeat os = {( "00	0$	0	000	0//$a/000a$/aa0 .0000$/0/a/000 0$0a0.$0$a00/	 $a000$0	0/	/0$/ $a0 / 	" ) : byte((-(101e9)))}; if a then a();  end; a, e = (nil); function os.huge () a(); end; return (false);  until (( (true) ) : status()); local math = (0x29C), ((false)); local self, d = (true), ..., (...~=os : config""); d = function (a, a, d) os = d;  end, (0xD); 

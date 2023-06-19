@@ -1,1 +1,0 @@
-math : random(( "$" ) : byte(), ( function (...) debug = e; return [[]];  end )()); 

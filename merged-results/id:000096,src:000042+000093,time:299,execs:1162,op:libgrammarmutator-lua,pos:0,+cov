@@ -1,1 +1,0 @@
-function io:randomseed (os, utf8, ...) os, os = {}, {[( (#{...}) ) : gethook((false))]=(nil),[((-utf8 : upvaluejoin()))]=package}; end; 

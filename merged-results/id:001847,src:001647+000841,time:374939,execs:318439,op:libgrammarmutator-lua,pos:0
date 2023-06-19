@@ -1,1 +1,0 @@
-debug : getmetatable(( "" ) : find((0xCAEC), (nil), (false), (0xE))); 

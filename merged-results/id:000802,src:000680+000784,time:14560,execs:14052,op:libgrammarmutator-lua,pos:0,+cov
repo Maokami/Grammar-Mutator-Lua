@@ -1,1 +1,0 @@
-if (((nil) and {}) .. (b and ({}))) then string, d = b, (((c^b)) or (false)), (io);  else os{""}; break;  end; break; 

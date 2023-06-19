@@ -1,1 +1,0 @@
-( {date=( not (#io : flush{}))} ) : output(); 

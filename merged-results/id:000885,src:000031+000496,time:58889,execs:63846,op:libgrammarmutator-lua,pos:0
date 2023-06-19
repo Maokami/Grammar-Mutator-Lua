@@ -1,1 +1,0 @@
-local d = function (...) repeat b({});  until (c);  end, function (...) repeat b({});  until (c);  end, function (...) repeat b({});  until (c);  end, function (...) repeat b({});  until (c);  end, function (...) repeat b({});  until (c);  end, b""; 

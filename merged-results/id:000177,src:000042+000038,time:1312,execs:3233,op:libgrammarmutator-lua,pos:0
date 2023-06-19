@@ -1,1 +1,0 @@
-function io:randomseed (os, utf8, ...) while ((...+(35638.688471395149))) do local b = (true); if (nil) then string = [[/]];  else e""; repeat b, b, package, math = (...), {}, (((false)+(#(nil))));  until ({"\u{f}",[({pi=(#c)} .. "\r")]=e,yield=((false)),load=...}); break;  end;  end; end; 

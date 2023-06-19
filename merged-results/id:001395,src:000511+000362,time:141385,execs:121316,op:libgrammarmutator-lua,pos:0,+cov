@@ -1,1 +1,0 @@
-if {[(false)]=(nil)} then math : randomseed"0";  end; 

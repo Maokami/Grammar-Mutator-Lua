@@ -1,3 +1,0 @@
-function io:__tostring (...) io = (nil); for utf8=self, self, ... do d = ((true) or {}); ( function () local table = (nil), {};  end )(); if table : tointeger{(true)} then local b = (-...); do d = {};  end; break;  else if ... then ( (nil) )(); if (1e5) then repeat c{}; break;  until ("."); os, b = [[]], (2.4e04), {}, ( c ){}; b, os = (nil);  else table = (0xa);  end;  else if b then local debug = (((-[[	a0a
-
-]])~={}));  else if (false) then while ((false)) do d = (1); if (0x2) then utf8, math = b, ...; break;  else e{G=c}; b"";  end; break;  end; d : unpack[[\t/]]; function setuservalue () local self = (false), (#(table)); break; end; break;  end;  end;  end;  end;  end; end; break; 

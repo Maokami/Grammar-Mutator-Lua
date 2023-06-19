@@ -1,2 +1,0 @@
-d, e = [[a]]; e, a = "a"; repeat repeat utf8, d, a = b; b = "", ({}+(( not (nil)))); repeat io(); c = a, ...;  until ([[
-.]]);  until (utf8); break;  until ((nil)); 

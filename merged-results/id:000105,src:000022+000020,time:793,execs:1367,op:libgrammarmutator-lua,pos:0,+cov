@@ -1,1 +1,0 @@
-local d, d = (debug[[ ]]<=(06e952)); function lines (...) do a = d;  end; return ...; end; local os = (nil), ( {} ){[((7.9e0))]=(false)}; debug = (true), "\v"; break; 

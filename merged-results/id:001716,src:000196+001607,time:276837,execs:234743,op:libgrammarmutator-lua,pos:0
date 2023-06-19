@@ -1,1 +1,0 @@
-while ((false)) do if {} then ( io"/" )((#{[(nil)]=...})); if e() then ( ... )((8)); break;  else e = ...; if ([[]]~=debug) then if (-(c^d"")) then e();  end;  end;  end;  end;  end; local debug = (...^(((nil)+{}))), function (e) a, os = e, e; b(); e = {}; break;  end, ..., function (e) utf8, c = e; break;  end; 

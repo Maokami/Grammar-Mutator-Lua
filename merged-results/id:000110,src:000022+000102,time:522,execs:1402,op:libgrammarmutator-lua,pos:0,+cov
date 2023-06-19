@@ -1,1 +1,0 @@
-for d=((d)%(nil)), ( not {}), (false) do if string : upvalueid() then local d = (-( not (""^( not {})))); break;  end;  end; 

@@ -1,1 +1,0 @@
-( "$." ) : gsub([[]], function (os) d = c;  end); 

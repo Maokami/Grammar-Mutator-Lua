@@ -1,1 +1,0 @@
-if b then a"";  else debug : setmetatable((debug or ((true))));  end; function debug.rawset (string, c) math(); end; 

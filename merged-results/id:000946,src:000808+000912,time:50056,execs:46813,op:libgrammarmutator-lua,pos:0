@@ -1,1 +1,0 @@
-( function (string, os, math, c, debug, d, ...) if ( not utf8) then a = c; if ... then e = (true);  else b{}; c = d; return (nil);  end;  else do function G (os) b(); end; d = c;  end; utf8 = math;  end;  end ){}; 

@@ -1,1 +1,0 @@
-if debug : setmetatable{(false)} then repeat local e, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, io, io = ..., (false); break;  until ({});  end; return debug : unpack((0xE)); 

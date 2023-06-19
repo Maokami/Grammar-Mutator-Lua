@@ -1,1 +1,0 @@
-local d, a, d, c = (debug : sethook(((0xc)), (0x21aEC), ( function () math, math, c, d = (true), {};  end )(...)) or self : __call((nil))); 

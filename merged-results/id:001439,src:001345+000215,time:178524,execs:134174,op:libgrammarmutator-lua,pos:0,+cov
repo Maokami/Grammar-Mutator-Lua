@@ -1,1 +1,0 @@
-debug : sethook((64.2e-3), b); 

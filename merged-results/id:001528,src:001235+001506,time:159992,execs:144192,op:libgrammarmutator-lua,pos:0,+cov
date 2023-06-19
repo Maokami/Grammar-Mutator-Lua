@@ -1,1 +1,0 @@
-for d=(#os), [[0]], io do e();  end; return ...; 

@@ -1,1 +1,0 @@
-if ((false)) then local c = ( not (#"0\x8C$")), ..., (nil), ( (true) )([[]], ([[]]>=(false)),(#(nil)), self); local utf8 = (""); do d(c);  end; local debug = (false), (0.0e-000000), ...; function b:s0(c, d, d) local d = ""; end; local d = c; b,d=d;break;0

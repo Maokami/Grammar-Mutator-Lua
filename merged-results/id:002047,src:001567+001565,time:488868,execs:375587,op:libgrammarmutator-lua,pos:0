@@ -1,1 +1,0 @@
-repeat local c = ..., b; table = function () e = c;  end; local b, string, io, os, string = {{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},{b,b},""}, (true); table = function () b = c;  end; a""; break;  until ({}); 

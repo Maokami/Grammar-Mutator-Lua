@@ -1,1 +1,0 @@
-e = ( [[\xd3Cec]] ) : gmatch([[$/]]); table, c = (nil), e[[]]; 

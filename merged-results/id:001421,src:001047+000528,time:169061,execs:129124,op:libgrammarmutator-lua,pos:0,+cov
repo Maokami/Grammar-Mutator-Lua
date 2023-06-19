@@ -1,2 +1,0 @@
-debug : setmetatable({running=function (e, ...) local string, a = ((( ( (nil) )() ) : offset())); repeat while (((true)<=({ult=...}))) do a = (nil), {log=(nil)}, (io^(#"a"));  end; table(); break;  until (".0"); local b = (0xA), (d==(#c)), ((true)), ((true)>(1.16e7)), (false); return ...;  end}); d[[
-]]; 

@@ -1,1 +1,0 @@
-function io:randomseed (os, utf8, ...) os, os = {}, {[( (#(e)) ) : gethook((false))]=(nil),[(-(((#io))))]=( not table),d : sethook[[\v]],cos=(false),[(false)]=({__call={},searchers=function (...) if "" then c = a, e;  end; for string=c, (nil), ((-...)*a) do e = e; e : len(); return a, d;  end;  end} or (nil))}; end; 

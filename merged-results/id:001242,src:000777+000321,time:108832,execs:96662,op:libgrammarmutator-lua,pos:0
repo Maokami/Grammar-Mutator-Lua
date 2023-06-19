@@ -1,1 +1,0 @@
-repeat for os=(false), package{[b : pi""]=e}, (-[[]]) do function lines (math, ...) repeat e = b; break;  until ((true)); return (0xD), ([[]] and math); end; return ({});  end;  until (((false) and (nil))); return ( (... and math : tointeger()) ) : move(); 

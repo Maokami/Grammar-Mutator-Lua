@@ -1,1 +1,0 @@
-table : concat((nil), (050.4), math, (nil)); 

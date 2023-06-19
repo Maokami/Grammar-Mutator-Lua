@@ -1,2 +1,0 @@
-e = ( ( "" ) : lower{gmatch=[[
-]],{concat=({})}} ) : gsub""; table, b = (nil), {[(true)]=(-(1e-9667453))}; 

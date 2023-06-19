@@ -1,1 +1,0 @@
-( function () local io = a, ""; function unpack () d : G""; io{}; end; local b, c = d : sub""; return io : codes[[ ]];  end )""; return ( ( not (nil)) )(...); 

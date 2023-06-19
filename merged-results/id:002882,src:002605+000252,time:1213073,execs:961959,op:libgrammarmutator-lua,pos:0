@@ -1,1 +1,0 @@
-for math=(0xf), (0xCCD), (0xB) do local a, os, d = string;  end; 

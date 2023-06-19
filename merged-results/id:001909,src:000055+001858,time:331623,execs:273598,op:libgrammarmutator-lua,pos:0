@@ -1,1 +1,0 @@
-if (nil) then local a = a; b = ((#{[((((a or (nil)) or (nil)) or (nil)) or (nil))]={}})*(nil)); break;  else a{};  end; e(); 

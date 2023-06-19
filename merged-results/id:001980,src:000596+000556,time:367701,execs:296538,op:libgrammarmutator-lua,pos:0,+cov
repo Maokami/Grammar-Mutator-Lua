@@ -1,2 +1,0 @@
-debug : sethook({[(6871)]=(false)}); d[[
-]]; 

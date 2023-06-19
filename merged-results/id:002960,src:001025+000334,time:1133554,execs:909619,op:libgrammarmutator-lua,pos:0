@@ -1,1 +1,0 @@
-( function (...) for a={}, c, ... do if ([[\r]]*(nil)) then function d.getlocal (io) e{a}; end; if (true) then c""; local d = a; break;  end; break;  else a = (d); do debug, debug, os, a, c = (false); break;  end; d(); break;  end;  end;  end ){}; 

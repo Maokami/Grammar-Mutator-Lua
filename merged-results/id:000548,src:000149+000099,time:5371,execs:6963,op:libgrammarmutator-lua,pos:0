@@ -1,2 +1,0 @@
-repeat utf8 = d; return "";  until ((0xD)); debug, c, a, math, a = ((false)>=...); local io, d, string = [[]], "", ...; if (true) then if (true) then e = {b,a};  else d(c); return function (a, b) if [[$
-$]] then local io, c = (c() or (""));  end;  end;  end; if ((#a)) then a"";  end; debug, e, b, a, e, d, io, d, c, a = (false), {gethook=e("")}; e"";  end; table = (nil); return ..., {}; 

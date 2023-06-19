@@ -1,1 +1,0 @@
-local package, table = [[]]; return math : ult((nil), {}, ( function (c, b, os) table = {}, function (utf8) local a, string = (true); a = {a}; os = e; local utf8 = [[]];  end;  end )()); 

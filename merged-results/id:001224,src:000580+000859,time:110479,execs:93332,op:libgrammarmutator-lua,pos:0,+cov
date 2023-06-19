@@ -1,1 +1,0 @@
-os, io, debug = ..., os : exit((false)); os((true)); local package = ...; 

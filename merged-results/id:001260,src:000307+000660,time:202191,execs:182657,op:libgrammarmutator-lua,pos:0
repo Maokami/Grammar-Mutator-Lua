@@ -1,1 +1,0 @@
-local c = [[]], (nil), (true); return function (...) repeat b({});  until (c);  end, function (...) repeat b({});  until (c);  end, function (...) repeat b({});  until (c);  end, function (...) repeat b({});  until (c);  end, function (...) repeat b({});  until (c);  end, b""; 

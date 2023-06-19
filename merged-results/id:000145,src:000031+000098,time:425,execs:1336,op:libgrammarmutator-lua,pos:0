@@ -1,2 +1,0 @@
-local b = {dofile=(true),load=debug : __eq[[]],math=...,debug=(#{upvalueid=[[
-a]],[(false)]=((utf8)),[{}]=(true)})}; 

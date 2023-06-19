@@ -1,1 +1,0 @@
-function table.lines (table, ...) utf8 = (0xae), ({}); if ( "" )[[]] then debug, self, e = (nil);  else c : self(b : G{}, c(), ...); d = e; e(); return ( debug ) : time"0";  end; self = b : tmpfile[[]]; local a = "", ..., "/"; return ( (0xFE) ) : unpack(io"$"); end; 

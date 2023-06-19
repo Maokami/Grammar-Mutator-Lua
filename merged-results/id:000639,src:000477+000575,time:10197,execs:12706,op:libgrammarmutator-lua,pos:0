@@ -1,1 +1,0 @@
-local utf8 = (false); c = ({write=(2.9e4),[( (0xb) ) : status("", ({function (...) io : status{}; return ((nil) or "\z0"), ...;  end}>{[(({tointeger=io}-{__div={...}}))]=(false)}))]=c}); return (nil), ...; 

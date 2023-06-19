@@ -1,1 +1,0 @@
-local b = {write=(((#self)>=(0xf0ebE)) or (((#self)>=(0xf0ebE)) or (((#self)>=(0xf0ebE)) or (nil))))}; 

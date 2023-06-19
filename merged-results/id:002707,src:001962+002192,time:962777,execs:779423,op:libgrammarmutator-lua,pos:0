@@ -1,1 +1,0 @@
-local math = {}; return ( ( "$" ) : gsub("", function (table) repeat local a = {}; return ( function (...) math = {len=(true)};  end )((0e-37917));  until ({}); return {}, (((true)));  end) )"", ((math) or {G=(nil)}); 

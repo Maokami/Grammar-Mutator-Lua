@@ -1,1 +1,0 @@
-repeat local c = ..., b; a = function () e = {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, {G=c}, "", {};  end; a""; break;  until ({}); 

@@ -1,1 +1,0 @@
-repeat local c = io, d; table = {table}; b""; break;  until ({}); 

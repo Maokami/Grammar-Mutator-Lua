@@ -1,1 +1,0 @@
-os : remove{char=( not (#package)),[(true)]=function (d) b(e);  end,[(false)]=...}; 

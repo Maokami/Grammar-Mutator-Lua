@@ -1,1 +1,0 @@
-do if (true) then debug, utf8 = (true); if ... then a{b}; a{}; c{};  else local debug, debug, math = (...);  end;  end; return (nil);  end; os, os, e = (8e-9); 

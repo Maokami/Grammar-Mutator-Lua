@@ -1,1 +1,0 @@
-debug : setmetatable{[{}]={{e,io},e},{}}; debug : maxinteger(); 

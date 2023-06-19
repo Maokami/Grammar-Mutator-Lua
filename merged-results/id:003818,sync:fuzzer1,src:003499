@@ -1,1 +1,0 @@
-debug : setmetatable(self); ( ( ( ".$" ) : rep((0x1)) ) : rep((0x1)) )(({e}+{c})); 

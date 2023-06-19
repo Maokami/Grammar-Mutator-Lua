@@ -1,1 +1,0 @@
-if table then repeat utf8, io = {}, a, a;  until ((nil)); return [[]], ( [[]] )(...);  end; break; 

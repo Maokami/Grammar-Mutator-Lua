@@ -1,1 +1,0 @@
-local c = (a or (a or (a or (a or (a or (a or (a or (a or (a or self))))))))); return ( not (true)); 

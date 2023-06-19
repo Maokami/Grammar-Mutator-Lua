@@ -1,1 +1,0 @@
-function codepoint (a, debug, os) if "" then e();  end; repeat a : len();  until (({})); end; local a = ( function (debug, c, ...) local a = io : input();  end )(); string = {[((true))]="",(io),[debug : sethook()]=(4e3),[""]=utf8}; 

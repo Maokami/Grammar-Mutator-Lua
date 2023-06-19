@@ -1,1 +1,0 @@
-( ({}~=(0x7ac)) ) : flush(..., function () local package, utf8, package = c, debug; return (true);  end, (nil), ..., ((0xA9D)), (((nil)%(0xaAfF))~=(false)), (true)); return (false); 

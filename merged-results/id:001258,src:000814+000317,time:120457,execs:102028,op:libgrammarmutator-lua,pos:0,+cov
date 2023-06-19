@@ -1,1 +1,0 @@
-if debug then while (( not ( not {{},min=(false)}))) do e, string = [[]], "$"; break;  end;  end; 

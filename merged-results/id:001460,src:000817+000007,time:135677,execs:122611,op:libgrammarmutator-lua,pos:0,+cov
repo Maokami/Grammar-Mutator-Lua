@@ -1,1 +1,0 @@
-( function (debug, c, ...) local a = ...;  end )({}, b, c); 

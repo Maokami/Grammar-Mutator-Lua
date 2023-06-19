@@ -1,1 +1,0 @@
-local c, b = "", "\xC", {(false)}, (false); table, c = ( not (true)), (false); math = (false); return {}, table : tonumber[[0\z ]]; 

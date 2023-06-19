@@ -1,1 +1,0 @@
-if [[aa]] then repeat local e, c, c, c, c, c, c, c, c, c, io, io = ..., (false); break;  until ({});  end; return ( not ((false) and (0x6))); 

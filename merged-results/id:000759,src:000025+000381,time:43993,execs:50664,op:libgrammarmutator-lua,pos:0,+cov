@@ -1,1 +1,0 @@
-function utf8.ceil () local a, table = "", (true), (nil); return ( not ( (nil) )({})); end; 

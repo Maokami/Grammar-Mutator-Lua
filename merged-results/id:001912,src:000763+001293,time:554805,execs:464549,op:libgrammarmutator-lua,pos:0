@@ -1,2 +1,0 @@
-repeat table : ceil{(#[[
- ]]),[{}]={{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},{e,io},e},[(874.0450)]=[[]]};  until (((true)==(false))); b = (... and {[(false)]=(true)}); 

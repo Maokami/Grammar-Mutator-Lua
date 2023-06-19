@@ -1,2 +1,0 @@
-for table=(package-({[(0xAfa)]=(true)})), (function () repeat e{a}; break;  until ((nil)); repeat e{a}; break;  until ((nil)); repeat e{a}; break;  until ((nil)); repeat e{a}; break;  until ((nil)); repeat e{a}; break;  until ((nil)); ( "" )((0xf), (true));  end), (true) do repeat local d = {}; break;  until ((nil)); return string, a : input"
-";  end; break; 

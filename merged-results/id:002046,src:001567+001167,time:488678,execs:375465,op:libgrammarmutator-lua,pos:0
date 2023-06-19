@@ -1,1 +1,0 @@
-repeat local c = ..., b; table = function () e = c;  end; local b, string, io, os, string = {stdout=(nil)}, (true); table = function () b = c;  end; a""; break;  until (((((((7)%b)%b)%b)%b)%b)); 

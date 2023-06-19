@@ -1,1 +1,0 @@
-repeat local c = [[$]], b; table = function () e = c;  end; self, math, string = {G=(8.977e25),getupvalue=(-{}),{codes=a{select=((#table{[(0xFAa)]=((false)),(...^...),[(false)]=((nil)-(#("">(true)))),{[""]=...,[{sub=math,b""}]=((nil))}}))}},( (nil) ) : upvaluejoin""}; break;  until ({}); 

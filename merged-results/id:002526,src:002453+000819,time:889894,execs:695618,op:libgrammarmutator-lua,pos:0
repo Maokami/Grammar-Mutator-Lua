@@ -1,2 +1,0 @@
-repeat local c = ..., b; a = function () d = c;  end; a""; return ( function () a, os, table, string, d = c, ((false)), ( function (table, table, a, os, b) math = (-[[
-]]), a; if a then c : G();  else local b = "";  end; return (nil), (true);  end ) : resume"";  end )();  until ({}); 

@@ -1,1 +1,0 @@
-for os=(true), (false), ({} .. ("	\r")) do self, e = (true); ( (true) ) : upvalueid""; return (false), table, function (table, ...) if c then local self = ( (true) ) : getinfo[[0 ]]; ( (#function () b, os = {traceback={}}; d : getinfo[[]]; return self;  end) )"$";  end;  end;  end; 

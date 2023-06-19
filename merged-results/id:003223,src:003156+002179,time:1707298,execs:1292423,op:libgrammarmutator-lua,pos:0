@@ -1,1 +1,0 @@
-( ( "/" ) : gsub("", function (table) table : lower""; return ( function () os : clock();  end )"", ((math) or {G=(nil)});  end) ) : upper(); 

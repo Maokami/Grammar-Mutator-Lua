@@ -1,1 +1,0 @@
-if (nil) then c(d); return (false), ( not io());  else table : remove();  end; 

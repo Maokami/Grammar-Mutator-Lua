@@ -1,1 +1,0 @@
-debug : traceback({[(3376)]=(false)}); repeat do local package = {}, (0xAB); break;  end; function rename () local math = (nil); end; table = ( ( (d) ){} ) : getuservalue("", (false), (nil)), utf8, [[ a\xDecd]], (9e-856500), {}, (nil); break;  until (((#os))); 

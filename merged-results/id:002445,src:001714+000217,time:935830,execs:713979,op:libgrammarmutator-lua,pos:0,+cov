@@ -1,1 +1,0 @@
-if b then a"";  else debug : setmetatable((math or ((true))));  end; d(); 

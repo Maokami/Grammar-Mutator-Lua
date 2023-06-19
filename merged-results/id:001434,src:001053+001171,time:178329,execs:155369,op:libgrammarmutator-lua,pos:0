@@ -1,1 +1,0 @@
-if (-((0xEDCa)<=(7.820e4))) then d : sqrt(); return (0xDDF), a, "", (false);  else d""; io{};  end; ( c ) : gsub(...); utf8 = os : sort{(true)}, math; table : clock(); 

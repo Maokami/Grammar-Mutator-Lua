@@ -1,1 +1,0 @@
-for os=(0xc), (0xDF), (0xBF) do table = table;  end; 

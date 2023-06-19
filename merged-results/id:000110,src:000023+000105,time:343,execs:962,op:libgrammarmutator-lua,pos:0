@@ -1,2 +1,0 @@
-function setvbuf () repeat io"
-.";  until ((nil)); return (true); end; return ( not (true)); 

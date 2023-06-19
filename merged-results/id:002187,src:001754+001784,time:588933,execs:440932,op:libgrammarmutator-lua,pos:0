@@ -1,1 +1,0 @@
-table : insert((false), ( "0$" ) : rep((33.12))); 

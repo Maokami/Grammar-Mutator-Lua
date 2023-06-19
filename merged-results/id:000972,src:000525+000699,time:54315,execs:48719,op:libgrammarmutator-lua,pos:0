@@ -1,1 +1,0 @@
-local c = (nil), ( {open=function (...) package = {os}, ((({(true)}~=(#{}))/{})); return (nil), ...;  end,[(nil)]=b : rad(),[(nil)]=...} )(); return (true), ..., (true), io, (true), ...; 

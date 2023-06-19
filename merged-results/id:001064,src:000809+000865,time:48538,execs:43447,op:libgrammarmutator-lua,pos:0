@@ -1,1 +1,0 @@
-debug : setmetatable(( io ) : input{{os,[[]],[...]=debug : load{},[(... or ( not (false)))]=function (...) ( os{} )(( (e) ) : getregistry{[function () io = c, (b<=(-b)), "", {};  end]=os : fmod([[/0.]])});  end}}); 

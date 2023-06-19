@@ -1,2 +1,0 @@
-function io:__tostring (...) io = (nil); for utf8=self, self, ... do function d:pcall () utf8 = ((nil)), c, (io[[ \v	
-]]<=( ((4e-00) .. (414)) ) : upper(function (a, string, e, b) c = b : exp{}; debug = {};  end, ({G=a}), {})); return a; end; local a = ([[]]<=[[ ]]), ((2282.22)); b = debug : match{[c]=((utf8<=(true)))};  end; end; break; 

@@ -1,1 +1,0 @@
-for io=((0xB)>(0xB)), (false), (false) do local b = (4); a = {}, {}; b(); break;  end; return ( ((3.589e5)~=[[0$/a$.]]) )(), (false), (false), (false), d; 

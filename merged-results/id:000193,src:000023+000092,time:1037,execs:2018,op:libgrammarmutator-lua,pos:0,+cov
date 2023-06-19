@@ -1,1 +1,0 @@
-package = {[(false)]=(b/function () a(); return {};  end)}, (string); return ( not (true)); 

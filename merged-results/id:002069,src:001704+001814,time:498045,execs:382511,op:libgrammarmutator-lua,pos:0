@@ -1,1 +1,0 @@
-local c = (io : tmpfile(io : flush[[]])^( (io) ) : read""); 

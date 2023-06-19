@@ -1,1 +1,0 @@
-local table, io, self = function () do local os = {}; return function (self, io) math, utf8, io, self, io = (true), (...>{});  end, a;  end;  end; return c; 

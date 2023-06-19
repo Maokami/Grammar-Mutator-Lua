@@ -1,1 +1,0 @@
-local math = {}; return ( function (...) local b, utf8, self = ...;  end )"", ...; 

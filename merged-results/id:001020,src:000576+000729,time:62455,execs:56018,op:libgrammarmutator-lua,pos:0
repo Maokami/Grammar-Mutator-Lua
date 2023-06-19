@@ -1,2 +1,0 @@
-local math, table, utf8 = (( ( not (0xb)) ) : __sub{}<((function () local debug, c, io, io, package = ""; for e={}, (function (a, ...) c = c; c = ""; c{}; return ..., {(#(nil)),G=(nil)}, ...;  end), package do ( (true) )[[
-]];  end;  end and ((nil)>=( ... )"")))); 

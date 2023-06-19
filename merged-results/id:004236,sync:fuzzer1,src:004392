@@ -1,2 +1,0 @@
-e = ( [[
-]] ) : gmatch""; if ((true)) then if (nil) then b""; c = c;  else e(c); e(c); e(c); e(c); e(c); e{};  end; return debug, ((nil));  end; 

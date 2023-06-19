@@ -1,1 +1,0 @@
-local e, package = e : setlocal(); package, a, debug = ({}), function () string"\f";  end, (( (nil) ) : loadlib""%function (c, io, io) do package = (5e88088047), {}; break;  end;  end), function () e""; return {modf=(98844.12e3)};  end, (( ( not (((io)))) ) : exit{((false))}+{( (6108e197) ) : sethook([[ /]])}); 

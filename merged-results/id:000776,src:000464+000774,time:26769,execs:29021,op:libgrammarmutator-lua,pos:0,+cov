@@ -1,1 +1,0 @@
-local self, b = ( ( function (self) utf8 = (true);  end )({{},""}, ..., (true)) ) : traceback" ", (true); return (true); 

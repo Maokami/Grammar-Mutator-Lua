@@ -1,1 +1,0 @@
-local math = {}; return ( function () math, math, c, b = (nil), {};  end )"", ((math) or ((math) or ((math) or {G=(nil)}))); 

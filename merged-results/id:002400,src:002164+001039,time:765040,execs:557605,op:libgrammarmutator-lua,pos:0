@@ -1,2 +1,0 @@
-debug : setmetatable(self); ( function (string, debug, table, a, ...) while ((true)) do if ... then c""; break;  else do if (true) then if table : cpath() then utf8 : rad{G=(... and b)};  end;  else do a = b; break;  end; do a = b; break;  end; do a = b; break;  end; do a = b; break;  end; do a = b; break;  end; do a = b; break;  end; do a = b; break;  end; do a = b; break;  end; do a = b; break;  end; d, io = function (...) e{}; c(); break;  end; a{}; return c;  end; b{};  end;  end; d"";  end; d();  end )[[
-]]; 

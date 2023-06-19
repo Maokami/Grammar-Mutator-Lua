@@ -1,1 +1,0 @@
-function clock () debug, e, debug = ((nil)), (nil); break; end; return ( string ) : create{select=(false)}, ((false)); 

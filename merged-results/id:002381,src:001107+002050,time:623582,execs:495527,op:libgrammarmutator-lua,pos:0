@@ -1,1 +1,0 @@
-table : insert({"",e : path()}, {"",e : path()}, {"",e : path()}, {"",e : path()}, {"",e : path()}, (#{b{}})); 

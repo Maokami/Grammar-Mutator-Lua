@@ -1,1 +1,0 @@
-debug : gethook(function () do local b, c = string : move(), (true), ".", function () local b = ((0xf));  end, "", (true); ( (nil) ) : unpack[[a]]; utf8, self, debug, math = (false), (nil);  end;  end); 

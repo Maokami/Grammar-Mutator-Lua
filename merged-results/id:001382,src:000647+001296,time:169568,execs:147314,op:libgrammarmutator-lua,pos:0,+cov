@@ -1,1 +1,0 @@
-local c, d = b, (nil); do ( (function (c) repeat d = b; c""; return io, (#(true));  until (d : modf());  end) ){};  end; 

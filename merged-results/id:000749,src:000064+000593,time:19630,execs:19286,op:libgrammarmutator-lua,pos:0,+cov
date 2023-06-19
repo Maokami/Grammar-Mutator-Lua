@@ -1,1 +1,0 @@
-( utf8 )((#os), ..., {}, (true), ( (646066) ) : gsub(function () repeat local math, os = {}, e, c"$a0", a;  until (os""); debug : pi(b{d,c}); return function (utf8) a : G(); io = (nil);  end;  end, [[]])); 

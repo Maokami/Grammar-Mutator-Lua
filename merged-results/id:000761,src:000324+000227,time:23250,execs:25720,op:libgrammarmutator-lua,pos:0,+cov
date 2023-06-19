@@ -1,1 +1,0 @@
-for os=(4), (81e-2), ... do b(); e(); break;  end; local io, e, b = b, (false); return self; 

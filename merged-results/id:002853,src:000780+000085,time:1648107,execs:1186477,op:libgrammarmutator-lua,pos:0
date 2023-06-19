@@ -1,2 +1,0 @@
-for debug=(true), (false), ((debug : math""%{[(io or os)]=(true),[(io or os)]=(true),[(io or os)]=(true),[(io or os)]=(true),[(io or os)]=(true),[(io or os)]=(true),[(io or os)]=(true),[(io or os)]=(true),[(io or os)]=(true),popen=a})) do local a = (0xf); return {};  end; math : byte[[ ]]; local math, string, io = "", (nil), ..., (true); e([[
-\t]], (true)); 

@@ -1,1 +1,0 @@
-if (nil) then utf8("");  else do repeat a, c = (0e44); if (true) then function sort () for e=b, "/", b do d = e;  end; end; break;  end; return ...;  until (((nil)));  end; string = "", b, a;  end; b = (d); return self{[{function () do b, b = {};  end; b = b; a(b); a = {};  end,debug : getregistry"",[(...~=b{})]=(true)}]=(true)}; 

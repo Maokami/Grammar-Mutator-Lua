@@ -1,1 +1,0 @@
-if d then d(c);  else if ... then c = {(a{})}; d(e); return ...;  end; while (e) do b{};  end; c(c);  end; 

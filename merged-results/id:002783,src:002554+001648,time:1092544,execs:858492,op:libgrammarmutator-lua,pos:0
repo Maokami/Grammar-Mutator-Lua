@@ -1,1 +1,0 @@
-( io : tmpfile"" ) : write(( [[]] ) : upper(), ( [[]] ) : upper(), ( [[]] ) : upper(), ...); 

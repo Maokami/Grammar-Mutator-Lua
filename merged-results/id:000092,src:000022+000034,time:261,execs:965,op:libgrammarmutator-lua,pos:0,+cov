@@ -1,1 +1,0 @@
-function utf8:lines (...) math, a = (-( not ...)); end; break; 

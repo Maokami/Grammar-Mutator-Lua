@@ -1,1 +1,0 @@
-d = table; return table : concat((nil)); 

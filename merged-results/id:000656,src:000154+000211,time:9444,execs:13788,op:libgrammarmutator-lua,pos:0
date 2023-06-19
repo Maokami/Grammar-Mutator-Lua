@@ -1,1 +1,0 @@
-local b = {randomseed={...},type=utf8 : lower[[.a.		]],((#((function (...) ( (0xA8cf) ){[...]=(nil)};  end)))<(false)),setlocale=...,reverse=(false),[os]=(false),exp=(true),os : getupvalue(),...,cpath=(0xaE),G=d,string=(( (0xb) )()==({[e]=(5),G={e}}-(true)))}; 

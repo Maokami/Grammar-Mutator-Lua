@@ -1,1 +1,0 @@
-local b = ( not (#{write=(((#self)>=(0xfeebE)) or (nil))})); 

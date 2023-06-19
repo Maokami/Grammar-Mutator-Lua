@@ -1,1 +1,0 @@
-repeat local c = io, d; b = function (d) local utf8, a, b = (true), [[]]; local c = function () d"";  end, function (...) do a = ..., a;  end;  end; return ((#((true)<(0xB))));  end; b""; break;  until ({}); 

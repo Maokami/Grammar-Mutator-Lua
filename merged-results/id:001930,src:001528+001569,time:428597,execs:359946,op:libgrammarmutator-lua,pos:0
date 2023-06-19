@@ -1,1 +1,0 @@
-for d=((#io)*((#io)*((#io)*((#io)*((#io)*((#io)*(false))))))), [[0]], io do e();  end; return ...; 

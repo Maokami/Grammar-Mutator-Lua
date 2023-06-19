@@ -1,1 +1,0 @@
-for os=((0x1afe)), (0xDF), "0" do e : G(utf8, (true)); if d then b"";  end; do e{}; c = ..., c; b = (b);  end; break;  end; 

@@ -1,4 +1,0 @@
-if {pi=([[a
-
-$
-/]]+(( e ) : traceback()^(nil)))} then local string, table = ( not ...);  end; 

@@ -1,1 +1,0 @@
-local os, package = {}; ( function (utf8, math, string, debug) os, io, os = {""}, {""}, {""}, (false);  end )(); 

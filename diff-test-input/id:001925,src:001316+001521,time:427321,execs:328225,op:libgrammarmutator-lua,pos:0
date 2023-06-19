@@ -1,0 +1,1 @@
+repeat local e, io, c = ..., b; table = function () e = c;  end; a{[((false)==package : rep([[$ ]], ((function (package) e = c{}, a; io[[a]]; b(); return (nil);  end))))]=(false),mininteger=(21.5)}; break;  until ({}); 

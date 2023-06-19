@@ -1,0 +1,1 @@
+( ( "/////////////////" ) : gsub("", function (table) repeat local a = {}; break;  until ({}); return (false), (((true)));  end) ) : upper(); 

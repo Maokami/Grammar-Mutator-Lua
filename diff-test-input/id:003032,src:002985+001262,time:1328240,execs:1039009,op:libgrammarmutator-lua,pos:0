@@ -1,0 +1,1 @@
+for os=(0xc), (0xDF), (93) do table = ({[{setlocal=(true)}]=(true),[[]],[""]=( not ((false))),[{"0",[package]=d}]=os});  end; 

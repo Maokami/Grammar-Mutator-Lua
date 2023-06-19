@@ -1,0 +1,2 @@
+( (( e : require"
+" ){}) ) : traceback""; do while ((true)) do e{[self]=d}; e : preload((true)); return ((...^(self()>(-(false))))%(0xfdDb));  end;  end; 

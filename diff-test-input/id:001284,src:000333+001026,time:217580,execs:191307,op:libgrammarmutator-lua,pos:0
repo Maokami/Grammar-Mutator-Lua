@@ -1,0 +1,1 @@
+string = (#{}), [[]], (true), function () function utf8:huge (self) ( (nil) ){}; end; local b = [[	]], (0xefBF); return (false);  end; string{( {[(true)]=(nil)} ) : sethook{[{[io]=...}]=(0xfeaa),d,[" "]=[[]],upper=( (7) ) : __lt{{}},{[e]=(false)}},(self=="	\xaCC   ")}; 

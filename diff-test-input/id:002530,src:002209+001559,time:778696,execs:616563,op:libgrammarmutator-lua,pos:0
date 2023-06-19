@@ -1,0 +1,1 @@
+if {match=(nil)} then local utf8, e, os, b, math, c = [[a]]; utf8(( function () d = b; utf8 : len{c}; os = a;  end )({}, (false)), (-[[/]]));  end; 

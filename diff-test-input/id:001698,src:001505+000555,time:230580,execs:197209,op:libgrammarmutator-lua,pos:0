@@ -1,0 +1,1 @@
+a(( function (c) debug : traceback();  end )(), ( function (c) debug : traceback();  end )(), ( function (c) debug : traceback();  end )(), ( function (c) debug : traceback();  end )(), ( function (c) debug : traceback();  end )(), (#{}), (nil), ...); 

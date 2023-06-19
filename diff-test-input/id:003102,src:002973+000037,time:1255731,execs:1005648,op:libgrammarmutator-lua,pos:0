@@ -1,0 +1,1 @@
+repeat local self = table : insert({}); function debug:traceback () ( ((table : insert((-(83.466e-278)), {}))) )[[]]; local a, c = a, d; d = (nil); end;  until ((0667.59e-98)); return table, (a<=e), c; 

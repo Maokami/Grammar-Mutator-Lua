@@ -1,0 +1,2 @@
+debug : gethook({input={io,c,...},input={io,c,...},input={io,c,...},input={io,c,...},input={io,c,...},input={io,c,...},input={io,c,...},...}); debug : gethook({[(6871)]=(false)}); a[[
+]]; 

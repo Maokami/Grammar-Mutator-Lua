@@ -1,0 +1,1 @@
+local math = {}; return ( function () math, math, c, b = (59.5e-6), {};  end )"", ((math) or {G=(nil)}); 

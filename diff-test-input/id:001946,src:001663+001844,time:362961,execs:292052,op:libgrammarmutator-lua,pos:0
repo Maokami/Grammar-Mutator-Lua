@@ -1,0 +1,1 @@
+local e = (true); return ( function (...) c = {(false),[e]={[{}]={{e,io},e},{}},((true))}; return [[]];  end )(); 

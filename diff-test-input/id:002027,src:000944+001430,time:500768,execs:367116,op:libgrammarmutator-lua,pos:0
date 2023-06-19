@@ -1,0 +1,2 @@
+if (nil) then utf8("");  else do ( ( ".$" ) : rep((0x1Be21)) )(({e}+{c}));  end; string = "", b, a;  end; d = (b); return ( [[
+]] ) : upper[[]]; 

@@ -1,0 +1,1 @@
+local c = (true); return ( function (...) c = e; return ( function (...) c = e; return ( "" ) : byte(((0xB)/[[0  ]]));  end )();  end )(); 

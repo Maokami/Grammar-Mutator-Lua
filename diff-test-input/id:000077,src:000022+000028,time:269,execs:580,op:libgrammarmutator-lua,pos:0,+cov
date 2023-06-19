@@ -1,0 +1,1 @@
+for d=os, a{}, function () c();  end do if d then b"";  end;  end; break; 

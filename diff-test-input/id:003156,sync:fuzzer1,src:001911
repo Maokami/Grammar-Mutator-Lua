@@ -1,0 +1,6 @@
+repeat table : ceil{(#[[
+ ]]),clock=...,[(874.0450)]=[[]]};  until (((true)==(false))); repeat table : ceil{(#[[
+ ]]),clock=...,[(874.0450)]=[[]]};  until (((true)==(false))); repeat table : ceil{(#[[
+ ]]),clock=...,[(874.0450)]=[[]]};  until (((true)==(false))); repeat table : ceil{(#[[
+ ]]),clock=...,[(874.0450)]=[[]]};  until (((true)==(false))); repeat table : ceil{(#[[
+ ]]),clock=...,[(874.0450)]=[[]]};  until (((true)==(false))); b = (... and {[(false)]=(true)}); 

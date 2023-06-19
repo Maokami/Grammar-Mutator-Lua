@@ -1,0 +1,1 @@
+( ( "$" ) : gsub("", function (table) table, os, debug = ""; return {}, (((true)));  end) ) : upper(); 

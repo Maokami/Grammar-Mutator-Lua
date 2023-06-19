@@ -1,0 +1,1 @@
+table : insert{lines=function (e, debug) do function a.time () if io then local string = "/";  else a{}; e();  end; return (true), (false); end;  end; os, utf8 = [[$]], a, a;  end}; 

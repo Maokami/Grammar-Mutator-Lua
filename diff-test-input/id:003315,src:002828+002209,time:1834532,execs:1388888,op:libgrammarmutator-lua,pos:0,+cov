@@ -1,0 +1,1 @@
+debug : setmetatable{}; local d = (...==debug : __mul{type=( not (50.6e0))}), ...; 

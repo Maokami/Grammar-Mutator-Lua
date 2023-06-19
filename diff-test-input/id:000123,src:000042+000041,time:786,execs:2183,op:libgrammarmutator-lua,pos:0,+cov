@@ -1,0 +1,1 @@
+for table=((((true)))), (nil), (false) do e : floor(); ( table ) : G(); return (nil);  end; 

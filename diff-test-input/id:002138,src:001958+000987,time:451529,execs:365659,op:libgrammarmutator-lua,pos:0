@@ -1,0 +1,1 @@
+local e, c, utf8 = "", (nil), (0xB); return ( function (...) c, b = [[a]]; c, b = [[a]]; c, b = [[a]]; c, b = [[a]]; c, b = [[a]]; c, b = [[a]]; c, b = [[a]]; c, b = [[a]]; local table = (631963.1e38), ((nil)); local debug = function () e{};  end; if (true) then c : match"";  end; return [[]];  end )(io : type((0x3), (true))); 

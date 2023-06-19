@@ -1,0 +1,1 @@
+for d=(((...==(nil)) and os : gethook(..., "", (false), (true), b))%utf8), a{}, function () c();  end do if d then b"";  end;  end; break; 

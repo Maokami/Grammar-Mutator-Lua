@@ -1,0 +1,1 @@
+for os=(0xc), (0xDF), (93) do ( ( "$" ) : gsub(("$"), (0x21aEC), (nil)) ) : upper();  end; 

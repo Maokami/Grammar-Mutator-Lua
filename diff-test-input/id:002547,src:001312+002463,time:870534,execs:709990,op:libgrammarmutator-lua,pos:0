@@ -1,0 +1,1 @@
+if (true) then local d, d = a, ...; c = ...; return ...;  end; if {(c*(true))} then e = (false); b = e, ( ... ) : G(({}), (-{})); ( (nil) ) : debug(); local a, a = ({}), ([[]]); local os, e = ""; d(); return c, (false), ...;  end; local os, math, package, b = a, [[/	]]; return (0x4B), (io : abs"" .. (-(0xc))), (nil), ...; 

@@ -1,0 +1,1 @@
+function b:char () e, e = ( utf8(string, function () if table then b"";  else local io, a = (90);  end; c"0";e(); return (true);  end))[[]];break;0

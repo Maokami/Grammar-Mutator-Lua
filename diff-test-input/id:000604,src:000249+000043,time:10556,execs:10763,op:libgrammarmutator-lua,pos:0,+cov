@@ -1,0 +1,1 @@
+local os, a, math, io, debug = string, (#(({})<=(true))); 

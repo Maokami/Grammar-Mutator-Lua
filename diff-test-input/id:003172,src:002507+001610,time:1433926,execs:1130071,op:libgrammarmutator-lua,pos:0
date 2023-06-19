@@ -1,0 +1,1 @@
+a, c, e = {c,c,c,e,c,c,e,self=function () debug = (true);  end}; function a:G (...) e[[]]; end; 

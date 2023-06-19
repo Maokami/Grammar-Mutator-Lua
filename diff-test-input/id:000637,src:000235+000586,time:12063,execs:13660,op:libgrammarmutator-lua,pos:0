@@ -1,0 +1,1 @@
+local e, debug = "a"; local e, os = function () io, b = (((0xd2))~=e);  end; function gsub () io : pack""; os""; end; 

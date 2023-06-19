@@ -1,0 +1,2 @@
+repeat d = debug : setmetatable{}, (nil); if {} then c = (c()>(nil)); d[[
+]]; local io = ( not ...);  end;  until ((6.8261e774)); 

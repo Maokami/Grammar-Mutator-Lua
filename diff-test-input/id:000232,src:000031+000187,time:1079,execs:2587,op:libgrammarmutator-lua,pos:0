@@ -1,0 +1,2 @@
+for math=c, ({}), function (...) a[[]]; return d : rawset(), table(), ((true)>( (#d) ) : G{});  end do repeat for self=(false), (nil), function (...) os(b); break;  end do d : G""; b{G=d,os=a};  end; break;  until (((-{[...]=d,tonumber=io}))); return os, ...;  end; function string:upvaluejoin () if io then b();  end; break; end; return {[...]=( not function () for e=a, a, [[]] do e(); d"";  end; local os = ( ... )(); table, os = "a/
+", b, (#(((true)+({b,(0xfF),len=[[]]} or (true))))), {}; local string, os, io = (nil);  end),ceil=(false),close=(nil)}; 

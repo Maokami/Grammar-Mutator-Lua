@@ -1,0 +1,1 @@
+for e="", ..., b do a = c;  end; return table, (a<=(c)), utf8; 

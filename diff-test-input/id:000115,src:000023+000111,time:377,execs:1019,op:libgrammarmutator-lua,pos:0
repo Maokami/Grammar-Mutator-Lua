@@ -1,0 +1,1 @@
+function getregistry () self, os, d, table, e, c = (nil), (false), (nil), (nil); end; return ( not (true)); 

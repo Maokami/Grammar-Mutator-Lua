@@ -1,0 +1,1 @@
+local e, c, utf8 = "", (nil), (0x4); return ( function (...) function G () e{}; end; function G () e{}; end; d = b; ( function (...) ( function (c, e, ...) string();  end ){};  end ){}; os = a; return [[]];  end )(); 

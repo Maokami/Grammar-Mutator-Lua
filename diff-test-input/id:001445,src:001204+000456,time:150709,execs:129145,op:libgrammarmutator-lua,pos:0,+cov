@@ -1,0 +1,1 @@
+( function (a) debug : getinfo();  end )(); 

@@ -1,0 +1,1 @@
+local utf8 = (nil); ( utf8 ){...}; function table.remove () debug[[]]; return ((false)<(0xB)), {}; end; return ...; 

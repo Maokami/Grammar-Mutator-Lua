@@ -1,0 +1,3 @@
+for a=[[0 
+	]], ..., (true) do b : modf(); return (true), (0x7f), (6.1e-3), (nil), [[
+]];  end; 

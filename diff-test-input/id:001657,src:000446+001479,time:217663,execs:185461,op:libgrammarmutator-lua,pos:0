@@ -1,0 +1,1 @@
+local e, a = (#{}); return ..., debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, debug, ..., ""; 

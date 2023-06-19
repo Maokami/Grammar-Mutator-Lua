@@ -1,0 +1,3 @@
+if (#{}) then e""; a(); return {}, e((true), e, (9));  else local utf8, debug, c, self, package = {{},os=d}; return (nil), b, c{}, {};  end; function io (c, d) os = e; for debug=c, ((0xB)), (("$")*[[	/
+
+]]) do a""; local io, e = e(""), ...;  end; return function (io, e) b = "";  end; end; d, io = (nil); break; 

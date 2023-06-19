@@ -1,0 +1,1 @@
+local e, c, utf8 = "", (nil), (0xf); return ( function (package, math, c, e, a, ...) c = e; return [[]];  end )(); 

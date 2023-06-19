@@ -1,0 +1,1 @@
+for d="\v\v\v", d(), function () b"";  end do c"";  end; break; 

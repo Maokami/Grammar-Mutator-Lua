@@ -1,0 +1,1 @@
+( io : tmpfile"" ) : read(io : type((0xb), (true))); 

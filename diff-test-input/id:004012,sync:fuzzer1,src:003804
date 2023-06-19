@@ -1,0 +1,1 @@
+function io:randomseed (os, utf8, ...) os, os = {}, {[( (#e) ) : gethook((false))]=(nil),[{rawget=(nil),((((nil)-(-( not self)))-(-( not self)))-(-( not self)))}]=package}; end; 

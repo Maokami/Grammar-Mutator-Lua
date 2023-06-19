@@ -1,0 +1,1 @@
+c, b = [[a]]; local package, e, os = ( [[]] ) : byte(), utf8, (nil); local debug = function () e{};  end; if (true) then c : find"";  end; 

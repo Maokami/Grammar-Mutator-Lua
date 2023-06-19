@@ -1,0 +1,1 @@
+( function (debug, ...) do a{};  end; do d : G{d};  end; a(); c{e};  end ){}; 

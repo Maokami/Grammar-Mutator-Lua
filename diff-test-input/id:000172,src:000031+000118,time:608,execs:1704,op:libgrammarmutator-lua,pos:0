@@ -1,0 +1,4 @@
+do while (( ( not {[(false)]=(#( b() ) : exit[[$\f]]),table : io{},(true)}) ) : tmpfile[[
+]]) do local c = (true); ( function (...) debug : charpattern{};  end )"	"; if (0xC) then local io, b = ({b} and (os{}*(83))); d(); d(); io(); break;  else if {function () function flush () if {} then b{e};  end; break; end;  end,[c()]=(nil)} then function math.input () if ((false)^b) then c({});  end; local package = (nil), [[
+]]; end; do a[[/]];  end; return "", (nil);  end; function os:G () package = d{}, ...; if function (c) function os:_VERSION () a = "", {}, d, ((c)); end; utf8 = c; c = "
+";  end then a{e}; b{};  end; end;  end;  end; c{}; a = (false), ...;  end; while (({}>=[[$a]])) do if [[]] then a : G(); break;  else d, c, a = string, (a~=""); break;  end; os();  end; e : flush(); if (0xa) then if ((0x9fc)) then c, e = e""; e(); c(c{});  end; repeat a(); a();  until ("."); b{}; e"0";  end; ( (0xeD) )(); 

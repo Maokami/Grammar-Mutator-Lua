@@ -1,0 +1,2 @@
+do local a = ...; ( (nil) )(); ( {[([[
+\xc]]*{({[{}]=( ... )()}),config=(#(nil)),package,function () function a:assert (d) if (nil) then os"";  else ( c ) : G"	0"; local os = e;  end; if (nil) then ( (false) ) : setlocal[[ /]];  else local b = [[]]; do d = {};  end; do c(); c("");  end; os(); b{}; io{};  end; end;  end})]=( (true) )[[	0	]]} ){};  end; 

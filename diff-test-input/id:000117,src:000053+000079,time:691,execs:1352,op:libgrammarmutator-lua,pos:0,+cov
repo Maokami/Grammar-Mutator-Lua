@@ -1,0 +1,1 @@
+debug, string, table = ..., function () b = (false), {[(0xd6)]=(nil)}; return (((false)~=( not {})));  end; math[[]]; 

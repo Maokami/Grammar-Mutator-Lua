@@ -1,0 +1,1 @@
+repeat local e, io, c = ..., b; table = function () self, io, self, a, e, utf8, e, debug = c;  end; a""; break;  until ({}); 

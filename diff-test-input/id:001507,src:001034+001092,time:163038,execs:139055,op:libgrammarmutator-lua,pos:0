@@ -1,0 +1,1 @@
+string : config(( not table : len(..., [[]], (a), ((( not (nil))/a : unpack(utf8, (nil)))>(-(-package))))), ...); 

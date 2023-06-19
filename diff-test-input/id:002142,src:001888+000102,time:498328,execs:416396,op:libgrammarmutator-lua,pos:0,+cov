@@ -1,0 +1,1 @@
+for utf8=(((((((9) .. (9)) .. (0)) .. (0)) .. (0)) .. (0)) .. (0)), (0xCF), (0xfdBe) do b = [[]]; e(); d((e)); e(a); e = e; break;  end; return ( not (true)); 

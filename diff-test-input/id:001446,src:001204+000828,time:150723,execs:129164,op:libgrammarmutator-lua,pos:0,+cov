@@ -1,0 +1,1 @@
+( function (b) debug : sethook();  end )(); 

@@ -1,0 +1,1 @@
+local package, utf8, io, package = (9.32e50), {}; local b = {({(nil)} .. [[$		]])}; local utf8, io = {}; 

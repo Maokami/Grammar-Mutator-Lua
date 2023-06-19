@@ -1,0 +1,2 @@
+local a = ((true)^(#{math=...,debug=(#{upvalueid=[[
+a]],[(false)]=((utf8)),[{}]=(true)})})); 

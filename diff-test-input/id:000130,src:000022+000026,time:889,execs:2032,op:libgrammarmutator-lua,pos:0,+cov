@@ -1,0 +1,1 @@
+function io:sethook (package, table, e, ...) do utf8 : close"	"; function sethook () local d = utf8; e(); end; repeat debug = "/";  until (...); for c=(c : stdout("") and {[(((false)))]=(0xfDC)}), self, (false) do for utf8=..., (69), ".\z" do b((7e-1), (... .. ...)); if a(a) then d(); break;  end; package = (true); break;  end;  end; break;  end; return io{}; end; break; 

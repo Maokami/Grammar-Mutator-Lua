@@ -1,0 +1,1 @@
+local e = (table : insert(table : insert[[0 ]])^(#{[(42)]=[[0/]]})); 

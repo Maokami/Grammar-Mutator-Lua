@@ -1,0 +1,1 @@
+for os=(0xc), (0xDF), (0xf) do ( ( "0" ) : rep(((0x5)), (0x741Ed), (nil)) ) : upper();  end; 

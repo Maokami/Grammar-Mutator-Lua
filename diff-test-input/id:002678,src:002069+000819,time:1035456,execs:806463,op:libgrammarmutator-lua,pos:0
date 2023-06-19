@@ -1,0 +1,1 @@
+local c = (io : flush(io : flush[[]])^( (io) ) : read""); 

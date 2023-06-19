@@ -1,0 +1,1 @@
+local c = self; local a, c, e, b = ("">=self([[]])); package : packsize""; if (a) then function e.log (c) e = e; c = a; end; a{}; a = d;  else b = "";  end; break; 

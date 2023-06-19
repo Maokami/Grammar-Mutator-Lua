@@ -1,0 +1,1 @@
+local utf8, utf8, b, package, a = e, (false), (false), [[]], {}; if (nil) then repeat ( b )(d); return ( not (0xEF));  until (e); for d=b, e(), "" do ( {} )(os, (false), (d)); b(c(d)); return (b);  end;  else ( [[ a]] ) : huge();  end; 

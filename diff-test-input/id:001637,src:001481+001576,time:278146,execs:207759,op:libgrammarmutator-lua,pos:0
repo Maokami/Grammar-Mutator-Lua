@@ -1,0 +1,1 @@
+repeat local c = io, c; b = function () local self = (""), c, (0xF); if (0xF) then repeat c{c}; return {};  until ((0xffF));  end;  end, ((false)), (nil); b""; break;  until ({}); 

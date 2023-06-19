@@ -1,0 +1,2 @@
+table : insert{( function (package, ...) local string = (false), (nil); local c, d, utf8 = {}; return ( not {...}), ((( debug ) : traceback())), ((( debug ) : traceback())), ((( debug ) : traceback())), ((( debug ) : traceback())), ((( debug ) : traceback())), ((( debug ) : traceback())), ((( debug ) : traceback())), ((( debug ) : traceback())), ((( debug ) : traceback())), " ";  end )(([[
+]]==((0x5E5))), (true), [[]], package, {})}; 

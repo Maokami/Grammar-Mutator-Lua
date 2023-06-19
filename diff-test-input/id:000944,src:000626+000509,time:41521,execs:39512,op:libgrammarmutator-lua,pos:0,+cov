@@ -1,0 +1,2 @@
+if (nil) then utf8("");  else do table, e, os, b, c = "";  end; string = "", b, a;  end; d = (b); return ( [[
+]] ) : upper[[]]; 

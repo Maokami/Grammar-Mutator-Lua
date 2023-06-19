@@ -1,0 +1,1 @@
+local os, package = ( not ( not (((((false) and io) and io) and io) and io))); os(); 

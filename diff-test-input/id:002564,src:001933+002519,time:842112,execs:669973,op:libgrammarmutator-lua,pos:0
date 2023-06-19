@@ -1,0 +1,1 @@
+local e = (true); return ( function (...) c = e; return ( io : tmpfile"" ) : read(io : type((0xb), (true)));  end )(); 

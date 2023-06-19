@@ -1,0 +1,1 @@
+self, a = function (...) b{}; return d;  end, function (...) b{}; return d;  end, function (...) b{}; return d;  end, function (...) b{}; return d;  end, function (...) b{}; return d;  end, function (...) b{}; return d;  end, function (...) b{}; return d;  end, function (...) b{}; return d;  end, function (...) b{}; return d;  end, e(), (true), math, (9); return {}; 

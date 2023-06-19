@@ -1,0 +1,1 @@
+local e = (true); return ( function (...) do e = io;  end; do e = io;  end; do e = io;  end; do e = io;  end; do e = io;  end; e""; return [[]];  end )(); 

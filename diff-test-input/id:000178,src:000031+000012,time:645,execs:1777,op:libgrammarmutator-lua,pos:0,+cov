@@ -1,0 +1,1 @@
+( {} )(({[(1)]=(...),log=("a")}), utf8(io, (false), (table((nil))<(false)), ..., ("" and ((( not "")/(0xD))))), ..., io, [[]], c, a); do d = debug : pairs(), {}; return ((0)-...);  end; 

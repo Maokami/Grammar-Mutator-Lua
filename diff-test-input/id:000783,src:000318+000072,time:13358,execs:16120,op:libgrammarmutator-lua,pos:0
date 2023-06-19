@@ -1,0 +1,1 @@
+local math, d = (6e-9), (true), (76e837), function (debug, self, math) table();  end, ..., ..., string, function (...) d = {}, (false), (true);  end, (((true))~=""); 

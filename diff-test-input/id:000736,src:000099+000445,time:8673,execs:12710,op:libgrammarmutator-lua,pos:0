@@ -1,0 +1,2 @@
+repeat do function io.open () math"0"; end; break;  end;  until (( d : __eq{} ) : lines[[
+]]); b, io, utf8 = ((nil)>=((0xF))); local package, io = (15138.1e72), {{yield=[[]],{},gsub=...}}; local package, a = ((("")^{open=( [[]] )""})>(nil)); 

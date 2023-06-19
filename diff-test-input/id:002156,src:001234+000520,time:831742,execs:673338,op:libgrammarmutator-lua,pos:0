@@ -1,0 +1,2 @@
+if (nil) then if (( (1) )(os{[e]="",d,os}, a, (2))+...) then if (47004) then a = e, b; d();  else d = {};  end; io : G(a); a"a";  end; if (73) then d".";  end; repeat a = c; self = "
+"; a"";  until ({a,{},{}}); break;  end; local io, table, debug, io, os, c, utf8 = (5e-5), (nil); 

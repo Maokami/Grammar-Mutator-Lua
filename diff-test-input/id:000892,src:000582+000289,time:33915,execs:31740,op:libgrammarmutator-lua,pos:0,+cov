@@ -1,0 +1,1 @@
+local c, os = debug((0xc), (true), (false), (((nil)%string : reverse{}))); package, c = math, (-...); 

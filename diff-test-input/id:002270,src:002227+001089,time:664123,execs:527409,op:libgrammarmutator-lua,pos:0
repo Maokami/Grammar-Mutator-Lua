@@ -1,0 +1,1 @@
+table : sort((-( [[\xacd\z]] ) : find("$"))); 

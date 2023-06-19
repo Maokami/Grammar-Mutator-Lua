@@ -1,0 +1,1 @@
+for os=(0xc), (0xDF), (0xf) do string, d, b = ( not (false)), ( not b);  end; 

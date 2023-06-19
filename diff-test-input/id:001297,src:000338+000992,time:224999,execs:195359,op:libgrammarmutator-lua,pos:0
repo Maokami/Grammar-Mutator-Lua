@@ -1,0 +1,1 @@
+utf8, c = [[0]], (false), ( (nil) )[[0$ 	]]; e, d = (false), (b>="\n"); function debug:type () if "" then table{[b]="/\n ",(4),c""}; ( a )([[0 ]]); os(); debug, a = e, os;  end; function log (...) if b then c : io"";  else d(b); b{};  end; if math then a(c); do e(); break;  end; d = d;  else c{}; c{}; break;  end; end; end; break; 

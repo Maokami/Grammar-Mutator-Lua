@@ -1,0 +1,1 @@
+( function (debug, c, ...) ( function (debug, c, ...) c = a;  end )();  end )(); 

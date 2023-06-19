@@ -1,0 +1,1 @@
+local table, debug, math, utf8, package = (nil), {...}, d; local math = {}, ...; if (true) then io, string = c, e; d[[]]; return (nil), (-[[]]), {}, {}, {offset=debug}, function () c = a; c = os; a = b; e{};  end, ( not (8));  end; string((e<=e)); c{}; e(a); c = {}; break; 

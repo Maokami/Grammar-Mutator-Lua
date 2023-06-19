@@ -1,0 +1,1 @@
+for a=(nil), (0xf), (nil) do a = (false); return {}, (true);  end; break; 

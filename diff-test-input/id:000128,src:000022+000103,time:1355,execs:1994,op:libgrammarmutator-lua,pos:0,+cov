@@ -1,0 +1,2 @@
+for self=function () if d then b();  end; return (true);  end, [[
+]], (false) do ( {} ) : dofile(([[.	]]), (b+(false))); debug, c = ( ((#{})*"") ) : _VERSION{}, (4.60e551), os, (#...), (d~=[[]]), a; for string=(""<(false)), {[(#...)]=(6e-0)}, (nil) do if {{}} then b();  else c = c;  end; return (-function (...) self = (utf8); function os:unpack (...) ( (...^c : tan{}) ) : seek({[e]=a,[[$/]]}, (false)); end; b, self = ((false));  end);  end; break;  end; break; 

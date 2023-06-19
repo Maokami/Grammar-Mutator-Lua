@@ -1,0 +1,1 @@
+local c = (io : tmpfile(io : flush[[]])^( (io : tmpfile()) ) : read(((0xFe9F)), (nil), {[(true)]=(17e5)})); 

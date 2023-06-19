@@ -1,0 +1,1 @@
+for math=(0xD), (0xCC), (0xB) do table : concat(( [[]] ) : upper(( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ...), ...);  end; 

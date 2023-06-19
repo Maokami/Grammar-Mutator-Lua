@@ -1,0 +1,1 @@
+local a, utf8, math, d = function () d(d); return a;  end; d(d); 

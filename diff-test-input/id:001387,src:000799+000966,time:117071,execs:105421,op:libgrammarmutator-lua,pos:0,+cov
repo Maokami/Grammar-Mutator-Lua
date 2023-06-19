@@ -1,0 +1,1 @@
+do function d:remove (...) if (false) then b{d}; table{io,{}}; a = (2);  else b({});  end; repeat debug = (1);  until ((-{[...]=function (a, self, ...) local io, debug, self, self, io, string = a : flush[[./]]; break;  end,tmpfile=[[]]})); return (2.5e0), (nil), {}; end;  end; 

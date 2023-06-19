@@ -1,0 +1,1 @@
+local os, package = {}; debug : setmetatable((package or (package or (package or (package or (package or (package or (package or (package or (package or ((true)))))))))))); 

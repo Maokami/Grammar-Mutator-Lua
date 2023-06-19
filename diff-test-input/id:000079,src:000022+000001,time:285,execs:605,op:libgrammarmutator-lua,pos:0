@@ -1,0 +1,1 @@
+for d=function () e, a, b = d; io, b = (false);  end, a{}, function () c();  end do if d then b"";  end;  end; break; 

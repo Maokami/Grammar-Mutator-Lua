@@ -1,0 +1,1 @@
+local d, package = (false), (7e-48); return {}, ..., ""; 

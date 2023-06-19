@@ -1,0 +1,1 @@
+local math = {...}; return ( function (...) math = {len=(true)};  end )((0e-37917)); 

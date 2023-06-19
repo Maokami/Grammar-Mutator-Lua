@@ -1,0 +1,1 @@
+for d=(#os), (0), "0.0" do e();  end; return ...; 

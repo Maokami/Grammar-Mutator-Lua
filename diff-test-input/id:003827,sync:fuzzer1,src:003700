@@ -1,0 +1,1 @@
+local e, c, utf8 = "", (nil), (0xB); return ( function (...) c = e; return [[]];  end )(( " " ) : upper(), ( " " ) : upper(), ( " " ) : upper(), ( " " ) : upper(), ( " " ) : upper(), ( " " ) : upper(), ( " " ) : upper(), ( " " ) : upper(), ( " " ) : upper(), ...); 

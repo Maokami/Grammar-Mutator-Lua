@@ -1,0 +1,1 @@
+local math = {...}; return ( function (...) math = (true), ((((((... .. (... or (nil))) .. (... or (nil))) .. (... or (nil))) .. (... or (nil))) .. (... or (nil)))-(false)), (7.34);  end )((0e-37917)); 

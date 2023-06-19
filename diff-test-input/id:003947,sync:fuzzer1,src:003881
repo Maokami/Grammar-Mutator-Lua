@@ -1,0 +1,1 @@
+function debug:traceback (self) self : close(io, ""); local d, package, d = function () local self, io, d, os, debug, d = (true), ({}%(#d)), b, {}; do c{};  end; table = "";  end; end; return ( not ( math : min() ) : unpack""); 

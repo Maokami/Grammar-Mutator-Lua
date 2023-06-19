@@ -1,0 +1,1 @@
+table : read{lines=(#{getregistry=(...)}),[{(a/(nil))}]=( ((true)%function (...) d : date{(nil),[math]=string}; a = {format=...,pi={{},(true),"0",[d]=((.../{}))}}, (0xc), (true); table : popen[[ ]]; local c, table = {[{}]=(nil)}, ((true) or self());  end) )(..., self),( a({}, a, b) ) : __call[[/]],stderr=( ((4)*(false)) )(),print={}}; 

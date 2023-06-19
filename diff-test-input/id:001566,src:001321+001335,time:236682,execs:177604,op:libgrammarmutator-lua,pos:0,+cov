@@ -1,0 +1,2 @@
+repeat local c = ( "" ) : lower{gmatch=[[
+]],{concat=({})}}, b; table = function () e = c;  end; table = function () e = c;  end; table = function () b = c;  end; a""; break;  until ({}); 

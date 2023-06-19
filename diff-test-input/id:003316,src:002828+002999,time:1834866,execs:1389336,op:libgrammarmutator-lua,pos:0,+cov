@@ -1,0 +1,1 @@
+debug : setmetatable({[(0378)]=(false)}); local d = (...==debug : getmetatable{type=( not (50.6e0))}), ...; 

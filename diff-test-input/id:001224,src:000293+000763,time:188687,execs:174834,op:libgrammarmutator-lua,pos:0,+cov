@@ -1,0 +1,1 @@
+debug{[debug : sethook[[]]]=(((false)) or {[c : io{}]=self}),(nil)}; 

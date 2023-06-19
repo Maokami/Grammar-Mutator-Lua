@@ -1,0 +1,1 @@
+( (#{...,len=debug : setmetatable(..., function () local io = a; ( (true) ){};  end, (true))}) ){...,len=debug : setmetatable{next=function () e = {(true)}; utf8, package = (false);  end,pack=(nil),""}}; 

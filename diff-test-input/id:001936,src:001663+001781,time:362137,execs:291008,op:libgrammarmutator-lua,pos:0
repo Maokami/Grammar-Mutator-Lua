@@ -1,0 +1,1 @@
+local e = (true); return ( function (...) e, b, e, e = e; return [[]];  end )(); 

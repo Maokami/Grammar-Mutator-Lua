@@ -1,0 +1,1 @@
+b, a, string, b, c, d, io = {[{{}}]=( not ...),{},[{""}]=( not string),[( not (-(#package)))]=(#{})}; return (false), (e : dofile{}~={}), ..., (a : dump()~=(false)); 

@@ -1,0 +1,2 @@
+( ([[0$	
+a	\b	]]) ) : gsub([[]], (function (io) local b = (true), debug; return [[$. ]];  end)); 

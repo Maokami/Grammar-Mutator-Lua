@@ -1,0 +1,1 @@
+function self:gsub (io) function e:G (table) local c, e = function (...) for d="", {}, c do a{};  end;  end, (nil); c = a{}; table{(...<utf8),[a]=((-([[]])))}; a = c; if "" then a".0."; c{};  end; end; d(); do a : G(); break;  end; break; end; 

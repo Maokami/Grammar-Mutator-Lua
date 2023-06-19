@@ -1,0 +1,1 @@
+local self = table : insert((5), (true)); local self = table : insert({}); local self = table : insert({}); local self = table : insert({}); local self = table : insert({}); local self = table : insert({}); local utf8 = function () self, b, d, os = (nil);  end; 

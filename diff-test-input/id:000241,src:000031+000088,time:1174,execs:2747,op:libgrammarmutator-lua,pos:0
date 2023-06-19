@@ -1,0 +1,1 @@
+local b = {[{[(0xA)]=io : fmod[[\f\t ]]}]={len=({})},ipairs=math,[e]=...}; 

@@ -1,0 +1,1 @@
+math({[[]]}, ( not (0xC6a)), ( (string==( debug ) : traceback"") ) : create{os(..., d(), function () local e = (true);  end)}); 

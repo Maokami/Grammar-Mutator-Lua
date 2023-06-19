@@ -1,0 +1,1 @@
+repeat string, d = (false), b, {}; return ( function () do b"";  end; a = a;  end )(...);  until ((true)); return (nil), self, {G=(false)}; 

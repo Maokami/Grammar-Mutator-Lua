@@ -1,0 +1,1 @@
+do local io, table, a = e, ((nil)~=(0xC)), (true); return function (os, self) a : io{}; if (""+({""})) then e = {};  else a, c = (4);  end; return ((#(nil))*(nil));  end, (true), package, (true);  end; 

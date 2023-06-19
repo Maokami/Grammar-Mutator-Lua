@@ -1,0 +1,1 @@
+local self = {table : sort[[]],codepoint=...,(5e-96)}; 

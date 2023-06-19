@@ -1,0 +1,1 @@
+for table=(debug), {a}, ((false)<=(false)) do b{}; math = {};  end; function open () os = debug[[]]; end; 

@@ -1,0 +1,1 @@
+local debug, self, d, e, os = ((false) and a), (true), ( not ( not ( not ( not ( not ( not "")))))), ((false) and (true)); return ((e) or table); 

@@ -1,0 +1,1 @@
+function self:unpack (b, a) e = a; local string, e = (nil), function (d) e = d; return "\u{Fd}";  end, (true), function () b, math = c : sub(); return (nil), (0xfFE), ( not d);  end; end; d(); return {setuservalue=((#(function () ( d )((e)); b, e = e, e; e[[]]; break;  end+((nil))))-table)}; 

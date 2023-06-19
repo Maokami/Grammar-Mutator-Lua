@@ -1,0 +1,2 @@
+debug : setlocal({[(3376)]=io : tan{write=(0x89),__eq=(true),[debug]=(72),ipairs=( (0xe) ) : concat(),...,function () function e.atan (...) repeat function flush (e, utf8, table) c, b = ""; d, c, d, b = (e-(nil)), (nil); end; repeat io{};  until (e); function e.pi () c(); d = c; end; e"";  until ((true)); end;  end}}); d[[
+]]; 

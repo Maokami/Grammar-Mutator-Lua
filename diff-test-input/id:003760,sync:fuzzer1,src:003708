@@ -1,0 +1,1 @@
+if {match=(nil)} then local utf8, e, string = [[a]]; utf8(( function () d = b; ( function (...) ( function (c, e, ...) string();  end ){};  end ){}; os = a;  end )({}, (false)), (-[[.]]));  end; 

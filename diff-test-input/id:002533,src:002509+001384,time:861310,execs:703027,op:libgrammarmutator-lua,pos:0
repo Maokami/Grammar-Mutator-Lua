@@ -1,0 +1,1 @@
+( ( "$" ) : gsub("", function () package : searchpath[[\u{d4f}\b]]; for e=c, (e), {} do table((#function (...) c, package = b, {G=d};  end), e, ""); c{}; do io = a;  end; break;  end;  end) ) : upper(); 

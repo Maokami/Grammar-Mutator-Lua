@@ -1,0 +1,1 @@
+local e = {[utf8]=(""==(false)),[(false)]=(0xEe),( not ...),preload=function () do local math = (e);  end; a, e = (true); return (nil), {error=function (...) b""; return ...;  end,[{[(0xcC)]=(((2)/(( e )()^("\b.\b"))))}]=(nil)}, [[ ]];  end}, (#io); 

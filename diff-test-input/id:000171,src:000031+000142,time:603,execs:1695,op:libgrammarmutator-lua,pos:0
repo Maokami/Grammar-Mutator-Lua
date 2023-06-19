@@ -1,0 +1,1 @@
+do utf8 = {[(#{c})]="",(nil)}, (-(-(0xF))); function package:format () for table=( {log=(#a),d,c} ) : flush[[]], (e/(...*table)), (false) do d, table = (self : read());  end; end; return ((false) and (950e-432));  end; return debug; 

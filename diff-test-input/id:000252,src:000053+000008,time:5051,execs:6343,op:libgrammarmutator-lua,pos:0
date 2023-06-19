@@ -1,0 +1,1 @@
+local a, self, os = utf8, debug; math[[]]; 

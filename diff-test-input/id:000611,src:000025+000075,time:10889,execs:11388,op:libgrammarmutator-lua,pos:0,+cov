@@ -1,0 +1,1 @@
+function utf8:debug () ( (true) ) : gsub(""); do b{};  end; os = ""; return ( (false) ) : getenv(( ((nil)<=(0xFb1c)) ) : G{(nil)}); end; 

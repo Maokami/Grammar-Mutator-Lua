@@ -1,0 +1,1 @@
+repeat local package, math, b, table = {}, ((false)~=...); if ((nil)~="0") then local debug = {(56929e4)}, debug, (0xE);  end; return function (d, string, string, a) function b:sort () b, b, math = (85e1); end;  end;  until ((false)); 

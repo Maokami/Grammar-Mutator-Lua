@@ -1,0 +1,1 @@
+local d, b, c = ...; return ((#(true))), package(), (#(#(nil))), (nil); 

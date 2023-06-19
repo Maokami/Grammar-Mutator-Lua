@@ -1,0 +1,1 @@
+( {clock={},(false)} ) : getenv{os : rawget({unpack=(true),codes=(((os)+d)^os)}),[...]=(nil)}; 

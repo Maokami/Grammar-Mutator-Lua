@@ -1,0 +1,1 @@
+( function (debug, c, ...) local self, d = (true), ..., (...~=os : config"");  end )("0", " ", e, a); 

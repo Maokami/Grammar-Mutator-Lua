@@ -1,0 +1,1 @@
+debug : gethook({[(6871)]=(false)}); ( ( function (debug) if e then a();  end;  end ) : lower"" ) : getupvalue(((true)), (0xC), b(function () c = table;  end, (true)), ((true))); for debug=a, {}, (...) do local debug, utf8 = ..., (nil);  end; 

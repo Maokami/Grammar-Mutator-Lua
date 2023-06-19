@@ -1,0 +1,1 @@
+local d, c, utf8 = "", (nil), (0xb); return os(io : type((0xE), (true))); 

@@ -1,0 +1,1 @@
+local c = ((true)^(#{b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,b,...})); 

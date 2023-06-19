@@ -1,0 +1,1 @@
+local a = ((... and (0x0)) or ( not ...)); function b:self () self = io(function () a((8)); b(); c(); return (#{}), (nil), math, a;  end), (true); end; return ""; 

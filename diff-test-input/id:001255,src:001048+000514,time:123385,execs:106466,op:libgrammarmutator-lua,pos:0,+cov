@@ -1,0 +1,1 @@
+for os=((0x1afe)), (0xDF), " " do b : G(utf8, (true)); if d then e"";  end; do b{}; c = ..., c; d = (b);  end; break;  end; 

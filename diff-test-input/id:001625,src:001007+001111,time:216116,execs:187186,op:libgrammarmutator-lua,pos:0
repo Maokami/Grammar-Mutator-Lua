@@ -1,0 +1,1 @@
+if b then a"";  else debug : getlocal{};  end; while (( {} )"") do math, io = {}, function () b(e""); b, c = {a""}; e{}; e""; return d, "";  end; io : setupvalue({( (#( not ...)) ) : offset()});  end; 

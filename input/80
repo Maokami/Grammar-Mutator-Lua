@@ -1,0 +1,2 @@
+a = os : getuservalue{}, ( not ""); function b.self (math) if (d : G()) then do os{""};  end; c"
+"; a();  else repeat e = a;  until (b); break;  end; break; end; local self = function (...) if [[]] then e{}; return self : loaded(), {}, (nil);  else d(); io(...); break;  end; function os (...) e(b); return "/"; end;  end; return (nil); 

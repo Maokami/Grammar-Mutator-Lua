@@ -1,0 +1,1 @@
+math : random(( "$" ) : byte(), ( function (...) c = e; return [[]];  end )()); 

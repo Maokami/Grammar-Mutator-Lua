@@ -1,0 +1,1 @@
+( ( ( "$" ) : gsub("", function (table) repeat ( ( "0" ) : char() ) : upper(); break;  until ({}); return [[]], (((true)));  end) ) : byte() ) : upper(); 

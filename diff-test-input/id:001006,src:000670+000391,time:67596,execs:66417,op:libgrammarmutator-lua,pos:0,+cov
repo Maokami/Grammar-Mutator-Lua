@@ -1,0 +1,1 @@
+local a = ((true)^(#{[table]=( [[\t.]] ) : gmatch(),[""]=b,(nil),a : io(),[b()]=(false),[(142)]={}})); 

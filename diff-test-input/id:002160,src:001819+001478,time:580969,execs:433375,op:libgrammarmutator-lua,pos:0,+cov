@@ -1,0 +1,2 @@
+debug : setmetatable(self); ( function (string, debug, table, a, ...) a = ( not (nil));  end )[[
+]]; 

@@ -1,0 +1,1 @@
+e = (true); table : insert((-(0xf2f)), e); io{}; return (false), ""; 

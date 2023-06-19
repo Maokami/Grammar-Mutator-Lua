@@ -1,0 +1,1 @@
+e, table, utf8 = utf8, io : open{}; 

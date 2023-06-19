@@ -1,0 +1,1 @@
+local e = (table : concat(( [[ $\u{5}\v/\xDcEb .]] ) : byte((4e311)))^(#{[(42)]=[[0//0]]})); 

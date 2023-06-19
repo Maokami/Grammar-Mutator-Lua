@@ -1,0 +1,1 @@
+function io:randomseed (os, utf8, ...) os, os = {(nil),setlocale=a,cpath=((0xd)),[{}]=(self),pack=(true),[[[]]]=""}, e; end; 

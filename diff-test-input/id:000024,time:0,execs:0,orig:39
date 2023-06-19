@@ -1,0 +1,1 @@
+local os = package : dump{(-function (math) local math, b = (nil);  end),[(...)]="

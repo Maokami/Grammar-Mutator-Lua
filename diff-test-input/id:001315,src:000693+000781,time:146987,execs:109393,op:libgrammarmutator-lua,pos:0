@@ -1,0 +1,1 @@
+repeat local c = ..., b; table = function () e = c;  end; utf8, e, b = ..., ([[]]-((false))), self : searchpath{}, ( (#function () local table = function () a = e; return (b);  end;  end) ) : lines{}, (0xBf), (false), (0xA1), [[]]; break;  until ({}); 

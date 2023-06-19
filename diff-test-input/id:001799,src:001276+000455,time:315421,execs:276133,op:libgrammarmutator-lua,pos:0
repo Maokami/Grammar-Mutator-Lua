@@ -1,0 +1,1 @@
+local d = {b,b}, ...; table = ((string==d)==d); e{}; break; 

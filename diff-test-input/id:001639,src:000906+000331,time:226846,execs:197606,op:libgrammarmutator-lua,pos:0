@@ -1,0 +1,1 @@
+function codepoint (a, debug, os) if "" then e();  end; repeat a : len();  until (({})); end; a, c, a = ((nil) and "		"); string = {[((true))]="",(io),[debug : sethook()]=(4e3),[""]=utf8}; 

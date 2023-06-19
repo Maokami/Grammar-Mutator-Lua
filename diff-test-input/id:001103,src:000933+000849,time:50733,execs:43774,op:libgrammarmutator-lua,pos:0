@@ -1,0 +1,1 @@
+e = {os}, d, b; if ... then io = "00"; return (nil);  end; a = {gethook=math : getmetatable(...)}; return (true), a; 

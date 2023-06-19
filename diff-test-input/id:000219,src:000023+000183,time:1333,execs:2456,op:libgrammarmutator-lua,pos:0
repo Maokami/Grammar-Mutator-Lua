@@ -1,0 +1,1 @@
+repeat local io = c; do c = d, e; os{}; io : os();  end; return (math : char[[a\z]]);  until ((nil)); return ( not (true)); 

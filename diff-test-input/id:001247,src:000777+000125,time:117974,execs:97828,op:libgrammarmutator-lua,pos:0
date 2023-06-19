@@ -1,0 +1,1 @@
+repeat repeat for math=(nil), ..., ( not (5e38)) do self, utf8 = io, (0xEfE); break;  end; break;  until (...);  until (((false) and (nil))); return ( (... and math : tointeger()) ) : move(); 

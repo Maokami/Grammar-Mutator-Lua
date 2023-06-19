@@ -1,0 +1,1 @@
+repeat local a, b = ..., (c~=function () a, e = {}; c, d = a;  end), a, ..., self{e,os,a,...,os}, {}; ( (0xf) )(); break;  until (""); 

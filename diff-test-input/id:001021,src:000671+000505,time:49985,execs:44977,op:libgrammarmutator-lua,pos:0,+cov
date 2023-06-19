@@ -1,0 +1,2 @@
+repeat local c = {}, b, c, d; ( function (...) local e = (9); c(); d();  end )""; return function (string, ...) e, math = ([[]]); return {ult=package};  end;  until (function (...) e, b, package = [[\v
+0.]];  end); 

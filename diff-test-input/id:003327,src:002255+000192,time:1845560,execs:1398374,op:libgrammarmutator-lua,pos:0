@@ -1,0 +1,1 @@
+io : reverse((true), (((debug : setmetatable(..., (nil)))%((debug : setmetatable(..., (nil)))%os))-(false)), (6.85)); 

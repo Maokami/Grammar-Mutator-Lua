@@ -1,0 +1,1 @@
+debug : getinfo(..., ( function (...) local b = (true), debug; return [[	.	]];  end )[[]]); 

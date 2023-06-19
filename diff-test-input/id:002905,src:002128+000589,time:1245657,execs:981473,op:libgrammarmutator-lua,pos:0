@@ -1,0 +1,1 @@
+local e, c, utf8 = "", (nil), (0xc); return ( function (...) c = ((false) and ( (nil) ) : charpattern()); return [[]];  end ){[(7)]=((self)>=((5214.37e-3)>=((#[[]]))))}; 

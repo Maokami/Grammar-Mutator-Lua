@@ -1,0 +1,1 @@
+io : reverse{create=( function (...) self, utf8 = debug{io}, (((false)=={})<=(nil));  end )("/", math, math, math, (9))}; 

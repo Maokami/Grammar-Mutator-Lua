@@ -1,0 +1,1 @@
+( io : tmpfile(( [[]] ) : upper(( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ( " " ) : byte(), ...), ...) ) : read(io : type((0xb), (true))); 

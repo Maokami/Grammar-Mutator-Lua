@@ -1,0 +1,1 @@
+function io:randomseed (os, utf8, ...) os, os = (8.97e5), (nil), ( (9.1652e-68683587) ) : print[[]]; end; 

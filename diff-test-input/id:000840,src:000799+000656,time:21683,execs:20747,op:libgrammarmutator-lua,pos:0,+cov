@@ -1,0 +1,1 @@
+( ((function () local package, a, a = (nil); function clock () local package = (true); end;  end)) )(); 

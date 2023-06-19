@@ -1,0 +1,2 @@
+a : getregistry[[]]; do function d:getenv () while (a) do debug = ((false));  end; end;  end; local utf8 = (-(false)); ( (104028) )(); local a = "", (758e-2); a = function (...) function e.rawequal () local e, utf8 = (function () do local e = ((8)%b);  end; for c=(false), {}, b do a{}; break;  end; while (function () a(); break;  end) do b = {};  end; ( ... ) : dump{sethook=(nil),(((#{"
+"})^(0xDFb)))};  end); repeat e = b; return (false);  until ((true)); e : G{}; c = a(), (a); d{}; os(c); end; break;  end; 

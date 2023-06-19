@@ -1,0 +1,1 @@
+e, table, utf8 = (-(#( (table or (false)) ) : concat{})); 

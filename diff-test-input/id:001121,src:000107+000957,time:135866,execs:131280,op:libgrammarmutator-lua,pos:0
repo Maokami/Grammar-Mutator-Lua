@@ -1,0 +1,2 @@
+repeat self = ((0e-2) .. [[
+/a]]); break;  until (...); return "\aa.$"; 

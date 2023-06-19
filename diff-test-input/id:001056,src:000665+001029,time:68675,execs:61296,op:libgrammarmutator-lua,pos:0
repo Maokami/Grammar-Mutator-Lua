@@ -1,0 +1,1 @@
+os : remove(function (...) do d{};  end; local c = (-{}), "";  end, ...); 

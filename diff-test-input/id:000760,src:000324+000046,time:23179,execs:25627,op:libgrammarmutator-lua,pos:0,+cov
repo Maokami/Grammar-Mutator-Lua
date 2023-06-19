@@ -1,0 +1,1 @@
+local d, a, d, c = (debug : sethook"" or self : __call((nil))); 

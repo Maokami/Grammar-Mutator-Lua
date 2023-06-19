@@ -1,0 +1,2 @@
+utf8 : type{io=(false),concat=( io )[[. 
+]]}; local utf8 = (nil), (false); if {[{function () ( (6) ) : getinfo(); return (nil);  end,[(4e-1900)]=(true),read=((-(nil))),utf8 : find"",(false),(2e-1),(package and (d)),[""]=(nil)}]=({print=((true)),c,G=e,e}%({function (string) d{{}}; ( b )();  end,{},io=((true))}))} then function os:match () e = ""; a(); break; end;  end; break; 

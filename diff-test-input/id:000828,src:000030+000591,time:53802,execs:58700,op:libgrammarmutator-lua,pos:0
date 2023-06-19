@@ -1,0 +1,1 @@
+( (((-{})-(nil)) .. function (...) local debug, d, b = (nil); function randomseed (...) ( (nil) ){}; end; break;  end) ) : output(); 

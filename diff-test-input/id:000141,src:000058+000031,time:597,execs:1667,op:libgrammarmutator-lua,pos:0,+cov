@@ -1,0 +1,1 @@
+while ((function () local d, string, b, self = (82e30); local a, io = string; function io:concat (...) a = (true); break; end;  end)) do if ... then ( "" )(table(), {((0xBF))}); utf8"0"; return (nil);  end; if ( (a"") )({}) then c""; break;  else os(); break;  end; c = "/", ...; return (nil), ((0xD));  end; a = (true); ( ( not d) ){[(5e-37)]=(#(false)),[{}]=""}; return string; 

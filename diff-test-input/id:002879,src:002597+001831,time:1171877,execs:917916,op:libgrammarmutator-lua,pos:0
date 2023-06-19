@@ -1,0 +1,1 @@
+( ( "/" ) : gsub("", function (table) repeat local a = {}; break;  until ({}); return (false), ({[{setlocal=(true)}]=(true),[[]],[""]=( not ((false))),[{"0",[package]=d}]=os});  end) ) : upper(); 

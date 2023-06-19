@@ -1,0 +1,1 @@
+( (a .. ((io : lines{}) and (true))) ) : setmetatable((nil)); 

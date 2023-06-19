@@ -1,0 +1,1 @@
+for d="", {}, c do local math, package, string, utf8 = debug, ..., e, (nil), (-(...>=( not (( not ((nil)<(true))))))); os = (#[[]]); return {e()}, (nil);  end; 

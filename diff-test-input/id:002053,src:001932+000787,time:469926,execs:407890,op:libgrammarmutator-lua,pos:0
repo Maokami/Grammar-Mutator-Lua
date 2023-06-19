@@ -1,0 +1,1 @@
+local math = {...}; return ( function (...) debug : print(); table[[]];  end )((8e-47207)); 

@@ -1,0 +1,2 @@
+package = function (utf8, b, os, e) function b:remove () table : sub(); if [[.a.
+]] then e : write({(false),reverse=function () io();  end,char=[[\ba]]}); if (-(#( not (0xCBd)))) then a = ((nil)); os = (0xE); c{}; return "", ((false)), (nil), table, function () io""; break;  end;  end; d = io : G"", (29116e-3); do e = a;  end; e, utf8 = (nil);  else local io, self = ...;  end; end; return ((#(#...)) .. {});  end; return ( not (true)); 

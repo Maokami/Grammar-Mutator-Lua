@@ -1,0 +1,2 @@
+if (false) then repeat ( (false) ){}; return (true);  until ((false));  else ( function (d) local d = {b,b}, ...; table = (...), function () function io (...) do d = a;  end; end; break;  end; if e then e({});  else c"";  end; c{d}; e{}; break;  end ) : lower[[
+]];  end; 

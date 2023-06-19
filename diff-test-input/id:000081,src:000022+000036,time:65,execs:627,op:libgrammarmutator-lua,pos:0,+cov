@@ -1,0 +1,1 @@
+for d="\b", d(), function () c"";  end do c"";  end; break; 

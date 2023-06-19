@@ -1,0 +1,1 @@
+local b = (( not os())~={}), ("" and ((nil) and function (math) local debug, debug = (0xc);  end)); 

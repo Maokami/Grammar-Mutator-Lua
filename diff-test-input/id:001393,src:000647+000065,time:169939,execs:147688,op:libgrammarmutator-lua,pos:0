@@ -1,0 +1,1 @@
+local c, d = b, (nil); do ( (function (c) for e=(d), (-c), {} do local b = ""; e : G(); local math, os, io = (0xb), (({})+(true)), {}; return function (...) b{}; return d;  end, e(), (true), math, math, math, math, math, math, math, math, math, math, math, math, math, math, math, math, math, (9);  end;  end) ){};  end; 

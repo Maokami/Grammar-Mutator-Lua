@@ -1,0 +1,1 @@
+debug : setmetatable(package); ( ( [[a]] ) : rep((279759)) ) : lower(); 

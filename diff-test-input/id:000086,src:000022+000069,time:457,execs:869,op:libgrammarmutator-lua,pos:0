@@ -1,0 +1,1 @@
+for package=(true), ( not ( {} )(a, (-(nil)), (0e2), ((1.12e-6)))), (nil) do local table, b = utf8, ( not (0xDee)); if (function () io = (false);  end) then d{{}};  else a = (false);  end; do e[[]]; b(e);  end; self = ...; break;  end; break; 

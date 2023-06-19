@@ -1,0 +1,1 @@
+do string = (#utf8("")), b({}, (1)), (( not package)); repeat d""; return b, ..., c;  until ({pi=a,unpack={}}); for table=(0xD), (true), (-(true)) do self, b, utf8, math, package = (nil), (((false))-"."); local c = d; utf8(); c((2)); a = {}; break;  end; break;  end; break; 

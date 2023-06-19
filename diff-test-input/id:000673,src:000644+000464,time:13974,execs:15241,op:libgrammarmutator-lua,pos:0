@@ -1,0 +1,1 @@
+function setmetatable (...) debug = ((0xAC)), ...; return function (...) package = (nil), (nil), (3.26e5), ...; return (0xABA);  end; end; 

@@ -1,0 +1,1 @@
+io, b, self, self, string, utf8 = string; return ( not (true)); 

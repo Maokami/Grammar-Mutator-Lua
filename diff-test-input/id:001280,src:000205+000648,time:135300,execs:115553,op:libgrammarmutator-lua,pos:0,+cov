@@ -1,0 +1,1 @@
+package = string; return ( function (...) local c = (nil); c({(true)});  end )(...); 

@@ -1,0 +1,1 @@
+local e, c, utf8 = "", (nil), (0xc); return ( function (...) c = ((false) and ( (nil) ) : charpattern()); return os(io : type((0x3), (true)));  end )(io : type((0xB), (true))); 

@@ -1,0 +1,1 @@
+( ( "/" ) : gsub("", function (table) table : find""; return (false), (((true)));  end) ) : upper(); 

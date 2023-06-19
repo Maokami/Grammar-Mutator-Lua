@@ -1,0 +1,1 @@
+local e = (io : tmpfile(io : flush[[]])^( (io : tmpfile()) ) : read((3e-4))); 

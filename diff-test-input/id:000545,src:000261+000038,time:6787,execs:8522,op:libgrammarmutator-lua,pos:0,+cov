@@ -1,0 +1,1 @@
+if {} then utf8 = function (os) d, self = (nil); return {}, ((true)), (false), ".";  end; return ...;  end; 

@@ -1,0 +1,1 @@
+debug, string, table = ..., ( {config={}} ) : input""; math[[]]; 

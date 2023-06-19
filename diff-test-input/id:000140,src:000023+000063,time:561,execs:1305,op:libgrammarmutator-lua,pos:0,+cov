@@ -1,0 +1,1 @@
+local os, c = utf8; ( os ) : __lt(os, (true)); return ( not (true)); 

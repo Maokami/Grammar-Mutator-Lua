@@ -1,0 +1,1 @@
+local e, debug, c = (true); return debug, (nil), c, ..., (0xaC), os; 

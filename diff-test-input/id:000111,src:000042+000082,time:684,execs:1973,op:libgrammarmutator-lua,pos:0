@@ -1,0 +1,2 @@
+function io:randomseed (os, utf8, ...) os, os = {}, {[( (#(e)) ) : gethook((-{[c{[{}]=(nil)}]=(string),offset=self : stdin({[{write=(6),{},huge=[[a0
+]]}]=table,[(nil)]=[[]]}),(e~=(nil)),[{}]=self}), (-function (...) local a = ( {} ) : open(), ...; return (nil);  end))]=(nil),[((-utf8 : upvaluejoin()))]=package}; end; 

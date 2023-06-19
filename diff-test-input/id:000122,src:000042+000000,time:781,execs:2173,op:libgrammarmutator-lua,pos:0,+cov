@@ -1,0 +1,2 @@
+if (true) then for d=(d{}==(nil)), "a/", (true) do b""; b = {}; return {};  end; local os, io, math = "", "
+"; b = function () c = (false); return d, e, (a);  end, [[0]], (true); break;  end; a([[]]); break; 

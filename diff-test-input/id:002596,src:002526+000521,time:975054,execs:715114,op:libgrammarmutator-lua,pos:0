@@ -1,0 +1,1 @@
+local b, debug = "a"; local e, os = (13.5); c = (((e or (17))*((b or (17))*((e or (17))*((e or (17))*((b or (17))*...)))))); 

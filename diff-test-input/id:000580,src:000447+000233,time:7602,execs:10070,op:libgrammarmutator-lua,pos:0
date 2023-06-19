@@ -1,0 +1,1 @@
+repeat local utf8, e = (nil); function loadfile (a, d) e""; e, b = {}; b(""); end; e""; local d = {}, function () d"";  end, c, ((#(7e6847))), (true), math, [[]], function () b(); return (nil), e, {};  end; function move (math) debug, d, debug = (nil), (0), {c}; end; return math;  until (((nil) or "")); break; 

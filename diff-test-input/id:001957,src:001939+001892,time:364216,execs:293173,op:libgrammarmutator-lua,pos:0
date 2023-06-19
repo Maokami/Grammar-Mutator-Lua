@@ -1,0 +1,1 @@
+local e, c, utf8 = "", (nil), (0xf); return ( function (...) c = e; return utf8, ..., c;  end )(); 

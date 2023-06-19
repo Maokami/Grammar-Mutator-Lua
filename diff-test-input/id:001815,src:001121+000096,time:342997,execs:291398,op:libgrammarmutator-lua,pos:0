@@ -1,0 +1,1 @@
+a, table, io, io, self = utf8, io : flush{}; debug : setmetatable((package or ((true)))); 

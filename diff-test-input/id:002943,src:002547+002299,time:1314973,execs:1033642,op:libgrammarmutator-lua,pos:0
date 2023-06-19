@@ -1,0 +1,1 @@
+( io : tmpfile"" ) : close(io : tmpfile((0xb), (true))); 

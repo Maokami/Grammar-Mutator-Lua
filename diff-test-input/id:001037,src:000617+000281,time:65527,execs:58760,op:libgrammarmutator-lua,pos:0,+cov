@@ -1,0 +1,1 @@
+for b=string : match(), (true), ( (nil) )() do os(); break;  end; 

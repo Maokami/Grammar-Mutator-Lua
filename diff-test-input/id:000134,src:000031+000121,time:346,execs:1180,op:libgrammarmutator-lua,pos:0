@@ -1,0 +1,3 @@
+if ... then local b = ..., [[]], [[$]], (true); local d = [[\f\z0
+]], ([[.]]), string, [[	]];  else function table.tointeger (e, table, self, io) d(); utf8 = [[	
+.]]; c = ""; e(...); end; while (...) do function create () function G () a = (-(d)); end; break; end; b = c, ...; local b = d, {}; os{""}; b{}; break;  end; break;  end; 

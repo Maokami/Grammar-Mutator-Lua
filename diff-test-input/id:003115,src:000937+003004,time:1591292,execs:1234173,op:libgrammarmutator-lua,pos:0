@@ -1,0 +1,1 @@
+repeat if [[]] then local b, c, io = [[]]; e(((b or (0x6))^((b or (0x6))^((b or (0x6))^((b or (0x6))^((b or (0x6))^((b or (0x6))^((b or (0x6))^((b or (0x6))^((b or (0x6))^((9.9745e-241549)))))))))))); break;  end; local package = (false), {__div=debug}; ( "" ) : match((nil), (false)); return string : __sub{}, "", (true);  until ((false)); 

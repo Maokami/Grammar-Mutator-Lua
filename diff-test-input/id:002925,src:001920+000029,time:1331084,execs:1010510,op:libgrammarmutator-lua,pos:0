@@ -1,0 +1,1 @@
+repeat local c = io, d; b = function () table = (false); return (c==(c==(c==(c==(c==(c==(c==(c==c))))))));  end; b""; break;  until ({}); 

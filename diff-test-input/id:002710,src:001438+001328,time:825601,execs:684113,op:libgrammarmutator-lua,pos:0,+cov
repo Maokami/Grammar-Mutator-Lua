@@ -1,0 +1,1 @@
+table : concat(( (function (...) local os, self = ..., debug, ..., "";  end) )(), (#{}), ( function () local math = (0xE); return debug;  end ){{(0xa)}}, ...); 

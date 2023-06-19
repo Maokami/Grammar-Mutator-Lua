@@ -1,0 +1,1 @@
+local package, debug = (#os); return ( not (true)); 

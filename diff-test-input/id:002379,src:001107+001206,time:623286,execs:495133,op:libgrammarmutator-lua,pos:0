@@ -1,0 +1,1 @@
+table : insert({"",c{d : next(".")}}, (#{b{}})); 

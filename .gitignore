@@ -54,3 +54,4 @@ libgrammarmutator-*.so
 
 # ANTLR
 antlr-*.jar
+.vscode/

@@ -1,0 +1,1 @@
+do if b then c = "";  else e(); e{};  end; do do e(io"");  end; return ((false)%(true)), ( (true) )((-( (c : pi()) ){}), c);  end;  end; break; 

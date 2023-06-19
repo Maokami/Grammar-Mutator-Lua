@@ -1,0 +1,1 @@
+for a=(0xa), [[0]], (nil) do table : xpcall(); return (#{(8e-2)}), d, (...), (668);  end; 

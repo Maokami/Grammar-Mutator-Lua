@@ -1,0 +1,1 @@
+if (#[[/]]) then do os = (18);  end; while ((true)) do local os = (nil), ("");  end;  end; local self, c, self = (0xe); local d, package = utf8; local a, b, io, b = (nil); ( (true) )(); 

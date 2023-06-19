@@ -1,0 +1,1 @@
+repeat local c = ..., b; a = function () d = c;  end; a""; return ( function () table = (false); return [[]];  end )();  until ({}); 

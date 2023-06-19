@@ -1,0 +1,1 @@
+( function (debug, c, a, math, debug, ...) local a = ...;  end )(); 

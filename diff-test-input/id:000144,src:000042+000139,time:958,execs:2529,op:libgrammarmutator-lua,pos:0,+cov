@@ -1,0 +1,1 @@
+local debug = (9.5e41); return (true), (false), (false), string : reverse((nil), ..., ...); 

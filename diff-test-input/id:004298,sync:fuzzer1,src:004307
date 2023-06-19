@@ -1,0 +1,1 @@
+( ( "/a" ) : gsub("", function (table) table : lower""; return (false), (((true)));  end) ) : upper(); 

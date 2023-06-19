@@ -1,0 +1,1 @@
+local utf8, a, e, d = (false); local a = ( not ...), ...; local io = debug : sethook[[]]; 

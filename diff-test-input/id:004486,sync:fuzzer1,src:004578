@@ -1,0 +1,1 @@
+a(( function (c) ( function (b) ( function (self, table, ...) e = (nil), b, {G=c,G={c}}; e = (nil), b, {G=c,G={c}}; e = (nil), b, {G=c,G={b}}; e = (nil), b, {G=c,G={b}}; e = (nil), b, {G=c,G={b}}; local b = b; function debug:traceback () ( ((table : remove((-(92.374e-258)), {}))) )[[]]; local a, c = a, d; d = (nil); end;  end )();  end )();  end )(), (#{}), (nil), ...); 

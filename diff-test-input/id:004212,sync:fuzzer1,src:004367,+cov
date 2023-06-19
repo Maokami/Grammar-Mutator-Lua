@@ -1,0 +1,1 @@
+debug : setmetatable({__index=(false),[(true)]=(0x6),rad=...,[(false)]={}}); io(( debug : ceil(({}%(b))) ) : codes()); 

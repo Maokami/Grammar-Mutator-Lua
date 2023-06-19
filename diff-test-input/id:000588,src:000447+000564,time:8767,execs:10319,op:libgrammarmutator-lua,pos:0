@@ -1,0 +1,1 @@
+do if (#{[{(false)}]=package[[]],((true)<...)}) then ( (("")) ){}; return ..., (nil);  else b(); if (true) then c"";  end; return ..., ...;  end;  end; return ...; 

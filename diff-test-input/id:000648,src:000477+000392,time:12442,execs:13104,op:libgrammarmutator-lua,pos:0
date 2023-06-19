@@ -1,0 +1,1 @@
+function debug:config () ( (self : maxinteger()) ) : flush(); end; function getlocal () math, utf8, os = (0xE), " ", (b{}~=function () b = d, e; c""; return (os-"");  end); b, b = (nil); io : min(d, c); end; package[[/]]; for b="", b, (0xcF) do e(a);  end; ( (-(...>=function () if os then c"";  end; return (false);  end)) )(((-io))); 

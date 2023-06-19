@@ -1,0 +1,1 @@
+repeat local c = io, d; b = (c==c); b = (c==c); b = (c==c); b""; break;  until ({}); 

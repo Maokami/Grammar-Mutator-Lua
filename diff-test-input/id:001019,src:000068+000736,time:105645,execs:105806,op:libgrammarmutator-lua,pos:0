@@ -1,0 +1,1 @@
+if b then a"";  else do repeat c = {}; break;  until ("\b\b"); os(((5) or (true)), d); math : config((nil));  end;  end; math : flush(package, ...); 

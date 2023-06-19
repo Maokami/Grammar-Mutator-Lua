@@ -1,0 +1,1 @@
+repeat local c = io, d; b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, c = function () e = c;  end; b""; break;  until ({}); 

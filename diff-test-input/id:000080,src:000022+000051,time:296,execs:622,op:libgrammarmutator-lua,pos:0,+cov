@@ -1,0 +1,1 @@
+for d="\f", a{}, function () c();  end do if d then c"";  end;  end; break; 

@@ -1,0 +1,1 @@
+repeat repeat ( (... and ( ((c and (...-(0xA))) and math : tointeger()) ) : tointeger()) ) : move();  until (...);  until (((false) and (nil))); return ( (... and math : tointeger()) ) : move(); 

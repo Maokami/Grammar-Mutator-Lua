@@ -1,0 +1,1 @@
+local a = (true); return table : concat(table : concat(( "                                                                                                                                                                                                                                                                 " ) : upper(), ...), ...); 

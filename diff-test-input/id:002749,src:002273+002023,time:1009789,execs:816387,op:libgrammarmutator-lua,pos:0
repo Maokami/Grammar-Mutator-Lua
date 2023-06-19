@@ -1,0 +1,1 @@
+local e = ( ("") ) : gmatch"0"; if ((debug : gethook"")%((debug : gethook"")%((debug : gethook"")%((debug : gethook"")%os)))) then ( function () a = a; e = (-c);  end )((false)); local os = {({}~=((false)))};  end; a(); return ...; 

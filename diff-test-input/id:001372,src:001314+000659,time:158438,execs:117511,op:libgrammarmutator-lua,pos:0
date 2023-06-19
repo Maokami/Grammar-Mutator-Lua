@@ -1,0 +1,1 @@
+repeat local c = function (...) e : os""; b = c; a(c); return ..., function () io = b; table = (0x2D), os;  end, e;  end, d; table = function () e = c;  end; b""; break;  until ({}); 

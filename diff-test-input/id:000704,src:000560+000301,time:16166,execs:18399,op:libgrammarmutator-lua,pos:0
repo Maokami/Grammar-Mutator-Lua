@@ -1,0 +1,1 @@
+function utf8:pack (...) local e, string = ( not (false)); return (true), os, math, ( not (false)), ..., utf8 : gmatch(d, (nil)); end; 

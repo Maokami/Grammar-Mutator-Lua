@@ -1,0 +1,1 @@
+if {} then c = (( (false) ) : stdin()>=(false)); do function remove () if [[]] then utf8, os, d = string;  end; return (nil), (1), ((nil)); end;  end; function getuservalue (c, debug) self""; return (false), ( "" ) : type((-...), d, ((d%self)==(0xe))); end; local io = {}; c(); d = (8); os(); return function (c) a""; d();  end;  end; return (0xCE), os, [[]], (nil), "", ((2.9e9)); 

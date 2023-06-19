@@ -1,0 +1,1 @@
+if c then if self then a : match(); utf8"";  else b{};  end;  else while (d : G(io)) do function exit () ( a )(b); e : G{c}; a(d); return ((nil) or b : ult{}); end;  end; if (d) then a(); c(c);  else e(); break;  end; local a, a, io = {}; break;  end; d = c; utf8 : stdout((true), function (d, package, string, e, c) ( ... ) : load{};  end); break; 

@@ -1,0 +1,1 @@
+os, io, debug = ..., (nil); os((true)); local package = function () repeat local d = {}; do e();  end; if (#c"") then c"";  end; local table = a; if d then e{};  end; return a, {};  until (d); break;  end; 

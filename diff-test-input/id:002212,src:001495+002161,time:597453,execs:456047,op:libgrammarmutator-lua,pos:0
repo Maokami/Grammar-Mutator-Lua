@@ -1,0 +1,2 @@
+if (false) then local string = ...; return ...;  end; return debug((nil), ( [[
+]] ) : gsub"$	"); 

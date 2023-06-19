@@ -1,0 +1,1 @@
+( ( "/" ) : gsub("", function (table) table : lower""; return (false), ( "00000000000000000000000000000000000000000000000000000000000000000" ) : upper();  end) ) : upper(); 

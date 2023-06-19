@@ -1,0 +1,1 @@
+if table then if (true) then debug, a = table(), ([[$0	]]); return (true);  else b, e, e, e, b, e = (nil); return "$/", ..., d;  end;  else if ( (nil) )() then if ... then d""; local self = {(false),d}, [[]], (false);  end; utf8{};  else debug, debug = (false); return (false), [[$]];  end;  end; 

@@ -1,0 +1,1 @@
+( io : tmpfile() ) : read(); ( io : tmpfile() ) : read(); ( io : tmpfile() ) : read(); ( io : tmpfile() ) : read(); ( (... .. {}) ){...}; return ( not (true)); 

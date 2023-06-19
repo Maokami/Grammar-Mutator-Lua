@@ -1,0 +1,1 @@
+for a=(0xa), [[0]], (9.8e-831) do table : xpcall(); return (#{(8e-2)}), b, (...), (668);  end; 

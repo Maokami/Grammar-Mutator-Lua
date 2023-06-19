@@ -1,0 +1,1 @@
+for io=( ( not (#{{},[(true)]=(true),[function () a{}; return c, {{}};  end]=...})) ) : ceil[[.]], math, (false) do local b = ( (nil) )(); break;  end; 

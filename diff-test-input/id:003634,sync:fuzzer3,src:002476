@@ -1,0 +1,1 @@
+debug : setmetatable({[(6371)]=(false)}); function debug:preload (...) local io, string = (0xbE), ..., table; for utf8=e, {}, (false) do self = (true), (nil), (#(false)); function self.stdin () package((nil)); end; return (false), ...;  end; end; 

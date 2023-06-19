@@ -1,0 +1,1 @@
+( "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/aaa0/a/a..	a$0a	a.aaaa	aa	a/ 0aa.$aa a0.a	aa0.a/a	a/$0/$a0  aaaa	a.$aaa$/a$a/a	/	aa/a a.aaaaa	/$a0aa.aa0a  a./.0 a/aaa	 /0a$a00.aa$$a/.	aaaa a/	/a0a0 aa/aa0 //a0..a.	.aa.aaaa0 .0a/0 /$" ) : gsub[[/]]; local e = [[]], (false), ((nil)); 

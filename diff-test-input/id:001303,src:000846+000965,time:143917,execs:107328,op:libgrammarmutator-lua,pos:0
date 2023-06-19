@@ -1,0 +1,1 @@
+io : tmpfile(( (([[]])) ) : fmod{"	",gmatch=function () d();  end,[( io ) : assert()]=...}, ( not (""))); 

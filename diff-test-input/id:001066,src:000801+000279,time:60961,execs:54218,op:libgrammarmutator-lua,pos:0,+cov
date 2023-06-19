@@ -1,0 +1,1 @@
+local c, e, self = ((#{})^(#[[]])), ( {[d]=io : tmpfile{},a : G""} ) : __add((nil), (true), ( not "")); return b; 

@@ -1,0 +1,5 @@
+( "a/" ) : gsub[[
+./
+a	
+a
+	]]; local b = [[]], (false), ((nil)); 

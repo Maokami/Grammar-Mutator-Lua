@@ -1,0 +1,2 @@
+local e, io = ( function (c, ...) debug : setmetatable(self); ( function (string, debug, table, a, ...) io : type((false), ( ((true) and function (os, ...) debug = (false);  end) )());  end )[[
+]];  end )((false), utf8, [[]], (false)); local self, c, a = ...; function loaded (table) package = ((false)), {}, c, {}; if {} then d = (81), d, c; io"a"; c = a;  end; end; e : isyieldable{...}; if (false) then self, a, math = (nil);  end; return (true); 

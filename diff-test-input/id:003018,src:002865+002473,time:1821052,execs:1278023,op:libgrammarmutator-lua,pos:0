@@ -1,0 +1,2 @@
+debug : setmetatable{pack="a",[(true)]=(nil),popen=...,[math]=utf8,(false)}; ( function (string, debug, table, b, ...) io : type((false), io : type((false), ( function (string, debug, table, a, ...) io : type((false), ( function () debug{ceil=math : min"",( ( {} )((nil), {}, ( (c==[[]]) ) : byte{}) )(a),({min=((0xbc))}^(nil))};  end )());  end )()));  end )[[
+]]; 

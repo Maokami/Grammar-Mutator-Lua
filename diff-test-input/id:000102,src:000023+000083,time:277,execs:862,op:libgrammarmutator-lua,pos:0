@@ -1,0 +1,1 @@
+self, package, b = string; return ( not (true)); 

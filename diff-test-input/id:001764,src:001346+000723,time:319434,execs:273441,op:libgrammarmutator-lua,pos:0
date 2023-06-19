@@ -1,0 +1,2 @@
+os = (0x7), os : insert{function (c, ...) repeat table, c = (0xC); function self.popen (a, io, ...) ( a ) : date(); b = (-e); d, b = {}, ...; string = b, e(""); c(); end; while ({}) do a = d;  end; local table = c, e; a(b, c);  until ({});  end}, e : setupvalue{[function (debug, io) package, math = ( (false) )((true));  end]=( table ) : floor([[
+]]),stdout=(nil)}; 

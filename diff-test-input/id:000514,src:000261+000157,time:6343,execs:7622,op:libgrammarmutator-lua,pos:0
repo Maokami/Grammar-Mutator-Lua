@@ -1,0 +1,1 @@
+if (0xaeb1) then do repeat function io (...) os, io, b = (a>=(#"")), function () local c = (false), ((true));  end; while (function () c"";  end) do math();  end; end; return (13420946e41121);  until ((true));  end; os, math = (3.7), (nil);  end; return (nil); 

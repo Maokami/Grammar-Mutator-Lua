@@ -1,0 +1,1 @@
+function io:randomseed (os, utf8, ...) local math = io : load(function (string, ...) function gethook (package, table, ...) a""; os(); return (nil), (true); end;  end), [[]]; end; 

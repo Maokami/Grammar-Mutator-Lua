@@ -1,0 +1,1 @@
+( {(nil),[( (function () local debug = {}; local string = (""); a = function (debug, d) string, d = (nil);  end;  end) )[[]]]=debug} ) : output(); 

@@ -1,0 +1,1 @@
+local b = ((((... and math : tointeger()) and math : tointeger()) and ({io,table,[{}]=(false)} and package())) and math : tointeger()); 

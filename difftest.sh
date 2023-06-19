@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # get file count
-cnt=$(ls ./diff-test-input | wc -l)
+cnt=$(ls ./minimized-corpus | wc -l)
 echo $cnt files
 
 # make sure output files exist and are empty

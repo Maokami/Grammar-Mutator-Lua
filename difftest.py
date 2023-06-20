@@ -11,9 +11,18 @@ with open("out_lua_jit.json", "r") as f:
 with open("out_gopher_lua.json", "r") as f:
     gopher_lua_results = json.load(f)
 
+with open("out_lua2c.json", "r") as f:
+    lua2c_results = json.load(f)
+
 # Prepare CSV output file
 with open("diff_results.csv", "w", newline="") as csvfile:
-    fieldnames = ["input_file", "lua_result", "lua_jit_result", "gopher_lua_result"]
+    fieldnames = [
+        "input_file",
+        "lua_result",
+        "lua_jit_result",
+        "gopher_lua_result",
+        "lua2c_result",
+    ]
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
     writer.writeheader()
@@ -23,12 +32,16 @@ with open("diff_results.csv", "w", newline="") as csvfile:
         lua_result = lua_results[filename]
         lua_jit_result = lua_jit_results[filename]
         gopher_lua_result = gopher_lua_results[filename]
+        lua2c_result = lua2c_results[filename]
 
         # If the results differ, write to CSV
         if (
             lua_result != lua_jit_result
             or lua_result != gopher_lua_result
+            or lua_result != lua2c_result
             or lua_jit_result != gopher_lua_result
+            or lua_jit_result != lua2c_result
+            or gopher_lua_result != lua2c_result
         ):
             writer.writerow(
                 {
@@ -36,5 +49,6 @@ with open("diff_results.csv", "w", newline="") as csvfile:
                     "lua_result": lua_result,
                     "lua_jit_result": lua_jit_result,
                     "gopher_lua_result": gopher_lua_result,
+                    "lua2c_result": lua2c_result,
                 }
             )
